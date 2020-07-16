@@ -5,26 +5,14 @@ rtmp://pullstream-ucan.speedws.com/live/74cfd1dff67e4820924f883de50e2710
 http://46.32.68.167/s/live/208/816951136/819088191919/0.m3u8
 #EXTINF:-1 tvg-name="A2" group-title="海外一線",A2
 http://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:-1 tvg-name="ABC News HD" group-title="海外一線",ABC News HD
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:-1 tvg-name="ACB TV" group-title="海外一線",ACB TV
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Accent TV" group-title="海外一線",Accent TV
 http://video.a-tv.md/hls/accent.m3u8
-#EXTINF:-1 tvg-name="Action Sports 4U" group-title="海外一線",Action Sports 4U
-https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
 #EXTINF:-1 tvg-name="ACTV" group-title="海外一線",ACTV
 http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
-#EXTINF:-1 tvg-name="AD SPORTS 3" group-title="海外一線",AD SPORTS 3
-http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
-#EXTINF:-1 tvg-name="Adventure Sports Network" group-title="海外一線",Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 tvg-name="ALIENTO VISION TV" group-title="海外一線",ALIENTO VISION TV
 https://livestreamcdn.net:444/AlientoSD/smil:AlientoSD.smil/chunklist_w1952507674_b1300000_slen.m3u8
-#EXTINF:-1 tvg-name="ALL Sports" group-title="海外一線",ALL Sports
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
-#EXTINF:-1 tvg-name="ALL Sports" group-title="海外一線",ALL Sports
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-name="Alsace 20" group-title="海外一線",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC" group-title="海外一線",AMC
@@ -51,20 +39,6 @@ http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 http://188.242.237.246:65535/udp/239.239.3.70:5239
 #EXTINF:-1 tvg-name="Apsara TV" group-title="海外二線",Apsara TV
 https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 1 HD" group-title="海外一線",Arena Sport 1 HD
-https://ip2019tv.do.am/sport/Arena_Sport_1.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 2 HD" group-title="海外一線",Arena Sport 2 HD
-https://ip2019tv.do.am/sport/Arena_Sport_2.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 3 HD" group-title="海外一線",Arena Sport 3 HD
-https://ip2019tv.do.am/sport/Arena_Sport_3.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 4 HD" group-title="海外一線",Arena Sport 4 HD
-https://ip2019tv.do.am/sport/Arena_Sport_4.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 5" group-title="海外一線",Arena Sport 5
-https://ip2019tv.do.am/sport/Arena_Sport_5.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 6 HD" group-title="海外一線",Arena Sport 6 HD
-https://ip2019tv.do.am/sport/Arena_Sport_6.m3u8
-#EXTINF:-1 tvg-name="Ariana News" group-title="海外一線",Ariana News
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
 #EXTINF:-1 tvg-name="Ariana TV" group-title="海外二線",Ariana TV
 http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
 #EXTINF:-1 tvg-name="Ariana TV" group-title="海外一線",Ariana TV
@@ -75,8 +49,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chu
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-name="Arirang TV" group-title="日韓頻道",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Art Sports" group-title="海外一線",Art Sports
-http://tv3.streampulse.eu:1935/tilesport/movie2/chunklist.m3u8
 #EXTINF:-1 tvg-name="ArteTV" group-title="日韓頻道",ArteTV
 http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Atameken" group-title="海外一線",Atameken
@@ -99,10 +71,6 @@ http://154.90.1.188/gz168.php?id=axn
 http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
 #EXTINF:-1 tvg-name="BabyFirst" group-title="日韓頻道",BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-name="Bahrain Sport" group-title="海外二線",Bahrain Sport
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1452818509.m3u8
-#EXTINF:-1 tvg-name="Bahrain Sport" group-title="海外一線",Bahrain Sport
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1452818509.m3u8
 #EXTINF:-1 tvg-name="Bambarbia TV" group-title="海外二線",Bambarbia TV
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Bambarbia TV" group-title="海外一線",Bambarbia TV
@@ -117,20 +85,8 @@ http://154.90.1.188/gz168.php?id=bbc
 http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
 #EXTINF:-1 tvg-name="BBC Cbeebies" group-title="海外一線",BBC Cbeebies
 http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-name="BBC World News (EN)" group-title="海外一線",BBC World News (EN)
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 tvg-name="bbcnews" group-title="臺灣",bbcnews
-http://nb.iptv88888.xyz/hls/bbcnews.m3u8
 #EXTINF:-1 tvg-name="BBS 불교방송" group-title="日韓頻道",BBS 불교방송
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 10" group-title="海外一線",BEIN SPORTS 10
-http://iptv2.premium-stv.com:8888/live/BEIN10/Q5HdLOn0fc/19.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 5" group-title="海外一線",BEIN SPORTS 5
-http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/9.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 6" group-title="海外一線",BEIN SPORTS 6
-http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/11.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 7" group-title="海外一線",BEIN SPORTS 7
-http://iptv2.premium-stv.com:8888/live/BEIN7/uVXyuCtM1h/13.ts
 #EXTINF:-1 tvg-name="BH TV PERU" group-title="海外一線",BH TV PERU
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u
 #EXTINF:-1 tvg-name="bloomberg" group-title="臺灣",bloomberg
@@ -151,10 +107,6 @@ http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
 http://192.240.127.34:1935/live/cs11.stream/play.m3u8
 #EXTINF:-1 tvg-name="BSフジ" group-title="日韓頻道",BSフジ
 http://220.158.149.28:8180/live/TV00000000000000000072@HHZT
-#EXTINF:-1 tvg-name="BT Sport 2" group-title="海外一線",BT Sport 2
-http://103.194.171.4/live/S-4/playlist.m3u8
-#EXTINF:-1 tvg-name="BTV News" group-title="海外二線",BTV News
-https://1672046706.rsc.cdn77.org/LS-50041-SIN-10/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bull & Chicken Showtime" group-title="海外二線",Bull & Chicken Showtime
 https://1396402344.rsc.cdn77.org/LS-50041-SIN-23/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-name="Campus TV Magdeburg" group-title="海外一線",Campus TV Magdeburg
@@ -179,14 +131,10 @@ rtmp://pullstream-ucan.speedws.com/live/70b9af103bda41848bf9a5e4d020bf3e
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
 #EXTINF:-1 tvg-name="CBSN HD" group-title="海外一線",CBSN HD
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
-#EXTINF:-1 tvg-name="CCTV 5 Sport" group-title="海外一線",CCTV 5 Sport
-http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="高清港臺",CCTV-4K
 rtmp://pullstream-ucan.speedws.com/live/df46e774f4d24e4e80070025166fbbec
 #EXTINF:-1 tvg-name="CHAHHEHD7" group-title="海外二線",CHAHHEHD7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
-#EXTINF:-1 tvg-name="Channel News Asia" group-title="海外一線",Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CINEMA" group-title="海外二線",CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-name="CJB" group-title="日韓頻道",CJB
@@ -307,16 +255,6 @@ http://live.netd.com.tr/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
 #EXTINF:-1 tvg-name="DREAM TURK" group-title="海外一線",DREAM TURK
 http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:-1 tvg-name="Dubai Sports" group-title="海外二線",Dubai Sports
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-name="Dubai Sports" group-title="海外一線",Dubai Sports
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-name="Dubai Sports 2" group-title="海外一線",Dubai Sports 2
-http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="Dubai Sports 3" group-title="海外一線",Dubai Sports 3
-http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="E SPORT 3" group-title="海外一線",E SPORT 3
-http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8
 #EXTINF:-1 tvg-name="E!" group-title="海外一線",E!
 http://61.19.244.112:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS" group-title="日韓頻道",EBS
@@ -337,30 +275,16 @@ http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 #EXTINF:-1 tvg-name="ECO TV" group-title="海外一線",ECO TV
 http://54.36.109.228/19300/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 6" group-title="海外一線",Eleven Sports 6
-http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/230.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS2" group-title="臺灣頻道1",ELEVEN SPORTS2
-http://154.90.1.188/bkplay.php?id=328589
 #EXTINF:-1 tvg-name="Elita TV" group-title="海外一線",Elita TV
 http://46.55.111.242:8080/Rezina.m3u8
 #EXTINF:-1 tvg-name="ELTA綜合" group-title="臺灣",ELTA綜合
 http://nb.iptv88888.xyz/hls/elzonghe.m3u8
 #EXTINF:-1 tvg-name="ELTA影劇" group-title="臺灣",ELTA影劇
 http://nb.iptv88888.xyz/hls/elyingju.m3u8
-#EXTINF:-1 tvg-name="ELTA體育1" group-title="臺灣頻道1",ELTA體育1
-http://154.90.1.188/bkplay.php?id=229909
-#EXTINF:-1 tvg-name="ELTA體育1" group-title="臺灣",ELTA體育1
-http://nb.iptv88888.xyz/hls/eltiyu1.m3u8
-#EXTINF:-1 tvg-name="ELTA體育2" group-title="臺灣",ELTA體育2
-http://nb.iptv88888.xyz/hls/eltiyu2.m3u8
-#EXTINF:-1 tvg-name="ELTA體育3" group-title="臺灣",ELTA體育3
-http://nb.iptv88888.xyz/hls/eltiyu3.m3u8
 #EXTINF:-1 tvg-name="En TV/ZOOM (Энергодар)" group-title="海外一線",En TV/ZOOM (Энергодар)
 https://oriontv.net/hls/480.m3u8
 #EXTINF:-1 tvg-name="Enki-Benki" group-title="海外一線",Enki-Benki
 http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
-#EXTINF:-1 tvg-name="Enter Фильм" group-title="海外一線",Enter Фильм
-http://188.35.9.5:10007/stolen/138w/parasite.install
 #EXTINF:-1 tvg-name="Esperanza TV" group-title="海外二線",Esperanza TV
 https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_1096_av-p.m3u8
 #EXTINF:-1 tvg-name="Esperanza TV" group-title="海外一線",Esperanza TV
@@ -369,8 +293,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_1096_av-p.m3
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-name="ETV" group-title="海外二線",ETV
 https://1054166422.rsc.cdn77.org/LS-50041-SIN-9/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="Euronews" group-title="海外一線",Euronews
-http://178.124.183.5/hls/C5P6YOXJZT/variant.m3u8
 #EXTINF:-1 tvg-name="Europa Plus TV" group-title="海外一線",Europa Plus TV
 http://178.124.183.5/hls/BHH8EKRXPO/variant.m3u8
 #EXTINF:-1 tvg-name="EWTN" group-title="海外一線",EWTN
@@ -385,10 +307,6 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 #EXTINF:-1 tvg-name="Fine Living" group-title="海外一線",Fine Living
 http://182.73.122.74:10003/bysid/920
-#EXTINF:-1 tvg-name="FLOW Sports 1" group-title="海外一線",FLOW Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
-#EXTINF:-1 tvg-name="Flow Sports 1" group-title="海外一線",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
 #EXTINF:-1 tvg-name="FM Italia TV" group-title="海外一線",FM Italia TV
 http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX" group-title="海外一線",FOX
@@ -401,24 +319,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:-1 tvg-name="Fox Premium Movies" group-title="海外一線",Fox Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports Racing" group-title="海外一線",Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports Racing" group-title="海外一線",Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
-#EXTINF:-1 tvg-name="France 24" group-title="海外一線",France 24
-http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-name="France 24 (ENG)" group-title="海外一線",France 24 (ENG)
-http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-name="France 24 (ESP)" group-title="海外二線",France 24 (ESP)
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
-#EXTINF:-1 tvg-name="France 24 (ESP)" group-title="海外一線",France 24 (ESP)
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
-#EXTINF:-1 tvg-name="France 24 Arabic" group-title="海外二線",France 24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-name="France 24 Arabic" group-title="海外一線",France 24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-name="france24" group-title="臺灣",france24
-http://nb.iptv88888.xyz/hls/france24.m3u8
 #EXTINF:-1 tvg-name="G TV" group-title="海外一線",G TV
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-name="G TV" group-title="海外一線",G TV
@@ -543,8 +443,6 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-name="M2OTV" group-title="海外二線",M2OTV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-name="Macquarie Sports HD" group-title="海外一線",Macquarie Sports HD
-https://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/master.m3u8
 #EXTINF:-1 tvg-name="Magic TV" group-title="海外一線",Magic TV
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC" group-title="日韓頻道",MBC
@@ -611,34 +509,12 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-name="NBC (WTVJ) (EST)" group-title="海外一線",NBC (WTVJ) (EST)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-name="NBC 5 News (Chicago)" group-title="海外一線",NBC 5 News (Chicago)
-http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
 #EXTINF:-1 tvg-name="NBC GOLF" group-title="海外一線",NBC GOLF
 http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
 #EXTINF:-1 tvg-name="NBC GOLF" group-title="海外一線",NBC GOLF
 http://161.0.157.9/PLTV/88888888/224/3221226812/03.m3u8
-#EXTINF:-1 tvg-name="NBS Sports" group-title="海外一線",NBS Sports
-http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 tvg-name="NBS Sports" group-title="海外一線",NBS Sports
-http://161.0.157.5/PLTV/88888888/224/3221226881/02.m3u8
 #EXTINF:-1 tvg-name="NBS한국농업방송" group-title="日韓頻道",NBS한국농업방송
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="NEWS 24" group-title="海外二線",NEWS 24
-http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1 tvg-name="NEWS 24" group-title="海外一線",NEWS 24
-http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1 tvg-name="News 24 Balkan" group-title="海外二線",News 24 Balkan
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="News 24 Balkan" group-title="海外一線",News 24 Balkan
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="News Center 7 (Ohio)" group-title="海外二線",News Center 7 (Ohio)
-http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
-#EXTINF:-1 tvg-name="News Center 7 (Ohio)" group-title="海外一線",News Center 7 (Ohio)
-http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
-#EXTINF:-1 tvg-name="News18 Haryana" group-title="海外一線",News18 Haryana
-https://etv-haryana.akamaized.net/i/etv_haryana_live_1@349009/index_1_av-b.m3u8
-#EXTINF:-1 tvg-name="NewsNet" group-title="海外一線",NewsNet
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-name="NHK BS 1" group-title="日韓頻道",NHK BS 1
 http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
 #EXTINF:-1 tvg-name="NHK World Japan" group-title="日韓頻道",NHK World Japan
@@ -713,8 +589,6 @@ http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
 https://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:-1 tvg-name="PURA VIDA TV" group-title="海外一線",PURA VIDA TV
 http://184.173.181.2:1935/8140/8140/chunklist_w903716950.m3u8
-#EXTINF:-1 tvg-name="QAZSPORT" group-title="海外一線",QAZSPORT
-http://109.248.236.41:4433/udp/238.1.1.116:1234
 #EXTINF:-1 tvg-name="QTV" group-title="海外一線",QTV
 https://player.qtv.gm/hls/live.stream.m3u8
 #EXTINF:-1 tvg-name="QVC" group-title="海外一線",QVC
@@ -759,8 +633,6 @@ https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/chunklist.m3u8
 https://nn.geo.joj.sk/live/rik-index.m3u8
 #EXTINF:-1 tvg-name="RT" group-title="臺灣",RT
 http://nb.iptv88888.xyz/hls/rttime.m3u8
-#EXTINF:-1 tvg-name="RTE News" group-title="海外一線",RTE News
-https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8
 #EXTINF:-1 tvg-name="RTM 1" group-title="海外一線",RTM 1
 http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 #EXTINF:-1 tvg-name="RTM 2" group-title="海外一線",RTM 2
@@ -769,10 +641,6 @@ http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m
 http://178.124.183.5/hls/PN9VRQ5DGR/variant.m3u8
 #EXTINF:-1 tvg-name="Russia Today (Arabic)" group-title="海外一線",Russia Today (Arabic)
 http://rt-lh.akamaihd.net/i/ch_03@325607/index_320p_av-b.m3u8
-#EXTINF:-1 tvg-name="Russian Music Box" group-title="海外二線",Russian Music Box
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-#EXTINF:-1 tvg-name="Russian Music Box" group-title="海外一線",Russian Music Box
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1 tvg-name="SBS International" group-title="日韓頻道",SBS International
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1 tvg-name="SBS Plus" group-title="日韓頻道",SBS Plus
@@ -781,22 +649,6 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 #EXTINF:-1 tvg-name="SBScnbc" group-title="海外一線",SBScnbc
 http://wowlive.sbs.co.kr/sbscnbc/_definst_/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NzgxMzYwODksInBhdGgiOiIvc2JzY25iYy9fZGVmaW5zdF8vc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xfQ.fxwrJist8p1o_o_8QSTRBja3L7ji5YUUBRqTTJCOw9c
-#EXTINF:-1 tvg-name="Setanta Sports" group-title="海外一線",Setanta Sports
-http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports Eurasia" group-title="海外一線",Setanta Sports Eurasia
-http://92.46.127.146:8080//SetantaSport/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports Eurasia" group-title="海外一線",Setanta Sports Eurasia
-http://178.124.183.12/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports+" group-title="海外一線",Setanta Sports+
-http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports+" group-title="海外一線",Setanta Sports+
-http://109.248.236.41:4433/udp/238.1.1.61:1234
-#EXTINF:-1 tvg-name="Shop 24" group-title="海外一線",Shop 24
-http://tvshops.bonus-tv.ru/cdn/shop24/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Shop LC" group-title="海外一線",Shop LC
-http://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/1/prog_index.m3u8
-#EXTINF:-1 tvg-name="Shopping Live" group-title="海外一線",Shopping Live
-http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Shot TV" group-title="海外一線",Shot TV
 http://persik.by/stream/8138/423934/10454.m3u8
 #EXTINF:-1 tvg-name="Silence TV" group-title="海外一線",Silence TV
@@ -811,8 +663,6 @@ https://open-cdn.lanet.tv/live/1008.m3u8
 http://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-name="Sky Folk TV" group-title="海外一線",Sky Folk TV
 http://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-name="Sky Sport News" group-title="海外一線",Sky Sport News
-http://178.196.237.240:7777/play/a01u
 #EXTINF:-1 tvg-name="Slagr TV" group-title="海外一線",Slagr TV
 http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-name="Slagr TV 2" group-title="海外一線",Slagr TV 2
@@ -827,14 +677,10 @@ http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8
 http://138.201.226.83:1935/public/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Spirit TV" group-title="海外一線",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 tvg-name="SPORT MAX" group-title="海外一線",SPORT MAX
-http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
 #EXTINF:-1 tvg-name="Star Cinema" group-title="海外一線",Star Cinema
 http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8
 #EXTINF:-1 tvg-name="Star Family" group-title="海外一線",Star Family
 http://178.124.183.5/hls/CH_FAMILY/variant.m3u8
-#EXTINF:-1 tvg-name="Star Sports" group-title="海外二線",Star Sports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 tvg-name="starmovies" group-title="臺灣",starmovies
 http://nb.iptv88888.xyz/hls/starmovies.m3u8
 #EXTINF:-1 tvg-name="STARS TV" group-title="海外一線",STARS TV
@@ -843,24 +689,10 @@ http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
 http://118.130.121.108:1935/live-stb/definst/0d93902639680f27e8fc524d3b292479ca6759f4f0e0a84f35f70fd6f5339332/playlist.m3u8
 #EXTINF:-1 tvg-name="SWR Dasding" group-title="海外一線",SWR Dasding
 https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8
-#EXTINF:-1 tvg-name="SWR3" group-title="海外一線",SWR3
-https://swrswr3vrhls-i.akamaihd.net/hls/live/780818/vrswr3/master.m3u8
-#EXTINF:-1 tvg-name="Syria News" group-title="海外一線",Syria News
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8
-#EXTINF:-1 tvg-name="TB Дом" group-title="海外一線",TB Дом
-http://46.149.48.21:1234
 #EXTINF:-1 tvg-name="TBC" group-title="日韓頻道",TBC
 http://221.157.125.239:1935/live/psike/playlist.m3u8
-#EXTINF:-1 tvg-name="TBi" group-title="海外一線",TBi
-http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
-#EXTINF:-1 tvg-name="TBN (ARM)" group-title="海外一線",TBN (ARM)
-http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
-#EXTINF:-1 tvg-name="TBN Украина" group-title="海外一線",TBN Украина
-http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TBS" group-title="日韓頻道",TBS
 http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
-#EXTINF:-1 tvg-name="TBS News Bird" group-title="日韓頻道",TBS News Bird
-http://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-name="TCT Kids" group-title="海外一線",TCT Kids
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 #EXTINF:-1 tvg-name="TELE ARENA" group-title="海外一線",TELE ARENA
@@ -871,20 +703,6 @@ http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8
 https://teleticino720ptest.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w1446010045_b3001080.m3u8
 #EXTINF:-1 tvg-name="TENOR UA" group-title="海外一線",TENOR UA
 http://178.212.239.228:14502/playlist.m3u8
-#EXTINF:-1 tvg-name="Thai One" group-title="海外二線",Thai One
-https://1521567559.rsc.cdn77.org/LS-50041-SIN-22/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="Thai TV3" group-title="海外二線",Thai TV3
-https://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="Thai TV5" group-title="海外二線",Thai TV5
-https://1905117544.rsc.cdn77.org/LS-50041-SIN-20/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="Thai TV7" group-title="海外二線",Thai TV7
-https://1419021143.rsc.cdn77.org/LS-50041-SIN-21/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="Thai Voice TV" group-title="海外二線",Thai Voice TV
-https://1808558851.rsc.cdn77.org/LS-50041-SIN-24/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="THAIPBS-3" group-title="海外二線",THAIPBS-3
-http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-name="The Weather Channel (USA)" group-title="海外一線",The Weather Channel (USA)
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-name="This is Bulgaria" group-title="海外一線",This is Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TiJi" group-title="海外一線",TiJi
@@ -917,12 +735,6 @@ http://46.32.68.167/s/live/925/816951136/819088191919/0.m3u8
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Travel Guide TV" group-title="海外一線",Travel Guide TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT Muzik" group-title="海外一線",TRT Muzik
-https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1 tvg-name="TRT Muzik" group-title="海外一線",TRT Muzik
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1 tvg-name="Turkmen Sport" group-title="海外一線",Turkmen Sport
-http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 #EXTINF:-1 tvg-name="TV 5" group-title="海外二線",TV 5
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 5" group-title="海外一線",TV 5
@@ -931,18 +743,10 @@ http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
 http://83.222.173.94:1935/tvart/tvart/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Chosun" group-title="海外一線",TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="TV MALL" group-title="海外一線",TV MALL
-http://182.73.122.74:10000/bysid/302
 #EXTINF:-1 tvg-name="TV Plus" group-title="海外一線",TV Plus
 http://62.64.92.118:8000/002
 #EXTINF:-1 tvg-name="TV TRWAM" group-title="海外一線",TV TRWAM
 http://trwamtv.live.e96-jw.insyscd.net/trwamtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="TV1000" group-title="海外一線",TV1000
-http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8
-#EXTINF:-1 tvg-name="TV1000 Action" group-title="海外一線",TV1000 Action
-http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8
-#EXTINF:-1 tvg-name="TV1000 Русское кино" group-title="海外一線",TV1000 Русское кино
-http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8
 #EXTINF:-1 tvg-name="TV3 HD" group-title="海外二線",TV3 HD
 https://1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-name="TV5" group-title="海外二線",TV5
@@ -963,12 +767,6 @@ https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/tracks-v3a1/mono.m3u8
 http://154.90.1.188/bkplay.php?id=124
 #EXTINF:-1 tvg-name="TVBS" group-title="臺灣",TVBS
 http://nb.iptv88888.xyz/hls/tvbsm.m3u8
-#EXTINF:-1 tvg-name="TVBS新聞" group-title="臺灣頻道1",TVBS新聞
-http://154.90.1.188/bkplay.php?id=67808
-#EXTINF:-1 tvg-name="TVBS新聞" group-title="臺灣",TVBS新聞
-http://nb.iptv88888.xyz/hls/tvbsxwm.m3u8
-#EXTINF:-1 tvg-name="TVBS新聞" group-title="高清港臺",TVBS新聞
-https://pullstream-ucan.speedws.com/live/7315ec31076e444fad741d74066e0f9e.flv
 #EXTINF:-1 tvg-name="TVBS歡樂" group-title="臺灣",TVBS歡樂
 http://nb.iptv88888.xyz/hls/tvbshuanle.m3u8
 #EXTINF:-1 tvg-name="TVB星河國語" group-title="高清港臺",TVB星河國語
@@ -1017,34 +815,10 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-name="VH1" group-title="海外一線",VH1
 http://185.176.117.243/live/eds/VH1/HLS_encr/VH1.m3u8
-#EXTINF:-1 tvg-name="Viasat Explorer" group-title="海外一線",Viasat Explorer
-http://185.176.117.243/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
-#EXTINF:-1 tvg-name="Viasat History" group-title="海外一線",Viasat History
-http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
-#EXTINF:-1 tvg-name="Viasat History" group-title="海外一線",Viasat History
-http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
-#EXTINF:-1 tvg-name="Viasat Sport" group-title="海外一線",Viasat Sport
-http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 tvg-name="Viasat Sport" group-title="海外一線",Viasat Sport
-http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
-#EXTINF:-1 tvg-name="VIP Megahit" group-title="海外一線",VIP Megahit
-http://212.29.231.242:8080/btv_201/index.m3u8
-#EXTINF:-1 tvg-name="VIP Megahit" group-title="海外一線",VIP Megahit
-http://188.35.9.5:10020/stolen/403x/hot.dll
-#EXTINF:-1 tvg-name="VIVA CRISTO TV MUSIC" group-title="海外一線",VIVA CRISTO TV MUSIC
-http://ss6.domint.net:1946/vct_str/vctv/chunklist_w1751298307.m3u8
-#EXTINF:-1 tvg-name="VOTV" group-title="海外一線",VOTV
-http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/playlist.m3u8 lia-center.m3u8
-#EXTINF:-1 tvg-name="VRT.TV" group-title="海外一線",VRT.TV
-http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="VRT.TV (Электросталь)" group-title="海外一線",VRT.TV (Электросталь)
-http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-name="V音樂" group-title="高清港臺",V音樂
 https://pullstream-ucan.speedws.com/live/495c3a14306b4517be21162c04d8fa72.flv
 #EXTINF:-1 tvg-name="WakuWaku Japan" group-title="日韓頻道",WakuWaku Japan
 https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_sleng.m3u8
-#EXTINF:-1 tvg-name="Weather Channel" group-title="海外一線",Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
 #EXTINF:-1 tvg-name="WIF-TV HD" group-title="海外一線",WIF-TV HD
 https://live-wif.cdnvideo.ru/hls/573b349878c5685204e10800/720p.m3u8
 #EXTINF:-1 tvg-name="World Fashion" group-title="海外一線",World Fashion
@@ -1071,8 +845,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1 tvg-name="WW: FISHING NETWORK" group-title="海外一線",WW: FISHING NETWORK
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:-1 tvg-name="YAS Sports" group-title="海外一線",YAS Sports
-http://adtv.ercdn.net/yastv/yastv_720p.m3u8
 #EXTINF:-1 tvg-name="YTN" group-title="日韓頻道",YTN
 http://slive.ytn.co.kr/ytn/definst/ytn_stream_20190306/playlist.m3u8
 #EXTINF:-1 tvg-name="YTN KOREA" group-title="日韓頻道",YTN KOREA
@@ -1113,18 +885,8 @@ http://nb.iptv88888.xyz/hls/bdxiju.m3u8
 rtmp://pullstream-ucan.speedws.com/live/aaca77825d2e4d75b65a0d6ee75b0aba
 #EXTINF:-1 tvg-name="국방TV" group-title="日韓頻道",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="三立iNEWS" group-title="臺灣頻道1",三立iNEWS
-http://154.90.1.188/bkplay.php?id=229071
-#EXTINF:-1 tvg-name="三立LIVE新聞" group-title="臺灣頻道1",三立LIVE新聞
-http://154.90.1.188/bkplay.php?id=330403
 #EXTINF:-1 tvg-name="三立都會" group-title="臺灣",三立都會
 http://nb.iptv88888.xyz/hls/sldouhui.m3u8
-#EXTINF:-1 tvg-name="三立新聞" group-title="臺灣頻道1",三立新聞
-http://154.90.1.188/bkplay.php?id=206
-#EXTINF:-1 tvg-name="三立新聞" group-title="臺灣",三立新聞
-http://nb.iptv88888.xyz/hls/slxinwen.m3u8
-#EXTINF:-1 tvg-name="三立新聞" group-title="高清港臺",三立新聞
-https://pullstream-ucan.speedws.com/live/581fe521e3d043fda1e66c4bb4b04331.flv
 #EXTINF:-1 tvg-name="三立綜合" group-title="臺灣",三立綜合
 http://nb.iptv88888.xyz/hls/slzonghe.m3u8
 #EXTINF:-1 tvg-name="三立臺灣" group-title="臺灣頻道1",三立臺灣
@@ -1145,8 +907,6 @@ http://154.90.1.188/bkplay.php?id=144
 http://nb.iptv88888.xyz/hls/ztyule.m3u8
 #EXTINF:-1 tvg-name="中天娛樂" group-title="高清港臺",中天娛樂
 rtmp://pullstream-ucan.speedws.com/live/828693ae0ee84a4dbb4cbe898f26ab62
-#EXTINF:-1 tvg-name="中天新聞" group-title="臺灣頻道1",中天新聞
-http://154.90.1.188/bkplay.php?id=143
 #EXTINF:-1 tvg-name="中天綜合" group-title="臺灣頻道1",中天綜合
 http://154.90.1.188/bkplay.php?id=145
 #EXTINF:-1 tvg-name="中天綜合" group-title="臺灣",中天綜合
@@ -1157,10 +917,6 @@ rtmp://pullstream-ucan.speedws.com/live/fe5372f8bed947878b64191dd81b84f0
 http://154.90.1.188/bkplay.php?id=31
 #EXTINF:-1 tvg-name="中視" group-title="臺灣",中視
 http://nb.iptv88888.xyz/hls/zhongshi.m3u8
-#EXTINF:-1 tvg-name="中視新聞" group-title="臺灣頻道1",中視新聞
-http://154.90.1.188/bkplay.php?id=32
-#EXTINF:-1 tvg-name="中視新聞" group-title="臺灣",中視新聞
-http://nb.iptv88888.xyz/hls/zsxinwen.m3u8
 #EXTINF:-1 tvg-name="中視經典" group-title="臺灣",中視經典
 http://nb.iptv88888.xyz/hls/zsjingdian.m3u8
 #EXTINF:-1 tvg-name="中視箐採" group-title="臺灣",中視箐採
@@ -1179,8 +935,6 @@ http://nb.iptv88888.xyz/hls/tianyingjd.m3u8
 http://nb.iptv88888.xyz/hls/tianyingpd.m3u8
 #EXTINF:-1 tvg-name="天映頻道" group-title="高清港臺",天映頻道
 rtmp://pullstream-ucan.speedws.com/live/5de9e794cf304902b26b8271161f562d
-#EXTINF:-1 tvg-name="日テレ NEWS24" group-title="日韓頻道",日テレ NEWS24
-https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-name="日本 Ⅰ NHK 日本國際" group-title="海外一線",日本 Ⅰ NHK 日本國際
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-name="日本 Ⅰ NHK 世界頻道" group-title="海外一線",日本 Ⅰ NHK 世界頻道
@@ -1191,12 +945,6 @@ https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-name="日本 Ⅰ NHK 華語視界" group-title="海外一線",日本 Ⅰ NHK 華語視界
 https://mrw.so/5kK9VQ?dsjtv.com/20200205.m3u8
-#EXTINF:-1 tvg-name="日本 Ⅰ TBS NEWS" group-title="海外二線",日本 Ⅰ TBS NEWS
-http://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name="日本 Ⅰ TBS NEWS" group-title="日韓頻道",日本 Ⅰ TBS NEWS
-http://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name="日本 Ⅰ TBS NEWS" group-title="日韓頻道",日本 Ⅰ TBS NEWS
-http://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-name="日本 Ⅰ TOKYO" group-title="海外二線",日本 Ⅰ TOKYO
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 #EXTINF:-1 tvg-name="日本 Ⅰ TOKYO" group-title="日韓頻道",日本 Ⅰ TOKYO
@@ -1207,24 +955,12 @@ http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 #EXTINF:-1 tvg-name="日本 Ⅰ WOWOWO 電影" group-title="日韓頻道",日本 Ⅰ WOWOWO 電影
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
-#EXTINF:-1 tvg-name="日本 Ⅰ 天氣頻道" group-title="海外二線",日本 Ⅰ 天氣頻道
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 tvg-name="日本 Ⅰ 天氣頻道" group-title="日韓頻道",日本 Ⅰ 天氣頻道
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 tvg-name="日本 Ⅰ 天氣頻道" group-title="日韓頻道",日本 Ⅰ 天氣頻道
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 tvg-name="日本 Ⅰ 日本購物" group-title="海外二線",日本 Ⅰ 日本購物
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1 tvg-name="日本 Ⅰ 日本購物" group-title="日韓頻道",日本 Ⅰ 日本購物
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1 tvg-name="日本 Ⅰ 日本購物" group-title="日韓頻道",日本 Ⅰ 日本購物
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-#EXTINF:-1 tvg-name="日本 Ⅰ 全天新聞" group-title="海外二線",日本 Ⅰ 全天新聞
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-name="日本 Ⅰ 全天新聞" group-title="日韓頻道",日本 Ⅰ 全天新聞
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-name="日本 Ⅰ 全天新聞" group-title="日韓頻道",日本 Ⅰ 全天新聞
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-name="日本 Ⅰ 聲優廣播" group-title="海外二線",日本 Ⅰ 聲優廣播
 http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
 #EXTINF:-1 tvg-name="日本 Ⅰ 聲優廣播" group-title="日韓頻道",日本 Ⅰ 聲優廣播
@@ -1253,18 +989,8 @@ http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
 http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
 #EXTINF:-1 tvg-name="日本Imagica-BS" group-title="日韓頻道",日本Imagica-BS
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:-1 tvg-name="日本Japan News 24" group-title="日韓頻道",日本Japan News 24
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 tvg-name="日本Japan News 24" group-title="日韓頻道",日本Japan News 24
-http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 tvg-name="日本Japan News 24" group-title="日韓頻道",日本Japan News 24
-http://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 tvg-name="日本JapanetChannelDX" group-title="日韓頻道",日本JapanetChannelDX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1 tvg-name="日本l全天新聞" group-title="海外二線",日本l全天新聞
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 tvg-name="日本l全天新聞" group-title="海外一線",日本l全天新聞
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-name="日本NHK World" group-title="日韓頻道",日本NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/domestic/playlist.m3u8
 #EXTINF:-1 tvg-name="日本NHK World" group-title="日韓頻道",日本NHK World
@@ -1281,8 +1007,6 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-name="日本QVC Japan" group-title="日韓頻道",日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 tvg-name="日本TBS NEWS" group-title="日韓頻道",日本TBS NEWS
-http://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-name="日本WOWOW MOVIES (JPN|ENG)" group-title="日韓頻道",日本WOWOW MOVIES (JPN|ENG)
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="日本WOWO電影" group-title="日韓頻道",日本WOWO電影
@@ -1295,8 +1019,6 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="日本氣象" group-title="海外一線",日本氣象
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 tvg-name="日本新聞" group-title="海外一線",日本新聞
-https://mrw.so/55LU1g
 #EXTINF:-1 tvg-name="日本電影" group-title="海外一線",日本電影
 https://mrw.so/55LUnw
 #EXTINF:-1 tvg-name="日本衛星劇場" group-title="日韓頻道",日本衛星劇場
@@ -1317,10 +1039,6 @@ http://nb.iptv88888.xyz/hls/minshi.m3u8
 http://154.90.1.188/bkplay.php?id=193564
 #EXTINF:-1 tvg-name="民視第一" group-title="臺灣",民視第一
 http://nb.iptv88888.xyz/hls/msone.m3u8
-#EXTINF:-1 tvg-name="民視新聞" group-title="臺灣頻道1",民視新聞
-http://154.90.1.188/bkplay.php?id=207
-#EXTINF:-1 tvg-name="民視新聞" group-title="臺灣",民視新聞
-http://nb.iptv88888.xyz/hls/msxinwen.m3u8
 #EXTINF:-1 tvg-name="民視臺灣" group-title="臺灣頻道1",民視臺灣
 http://154.90.1.188/bkplay.php?id=193563
 #EXTINF:-1 tvg-name="民視臺灣" group-title="臺灣",民視臺灣
@@ -1335,20 +1053,10 @@ http://nb.iptv88888.xyz/hls/geowild.m3u8
 http://154.90.1.188/bkplay.php?id=54
 #EXTINF:-1 tvg-name="好萊塢電影" group-title="臺灣",好萊塢電影
 http://nb.iptv88888.xyz/hls/haolaiwu.m3u8
-#EXTINF:-1 tvg-name="年代新聞" group-title="臺灣頻道1",年代新聞
-http://154.90.1.188/bkplay.php?id=59907
-#EXTINF:-1 tvg-name="年代新聞" group-title="臺灣",年代新聞
-http://nb.iptv88888.xyz/hls/ndxinwen.m3u8
 #EXTINF:-1 tvg-name="有線603" group-title="高清港臺",有線603
 rtmp://pullstream-ucan.speedws.com/live/14eac7f3cb494d7eb68dbd050005e157
-#EXTINF:-1 tvg-name="有線新聞" group-title="高清港臺",有線新聞
-rtmp://pullstream-ucan.speedws.com/live/2501eaec80664129a885503176601a05
 #EXTINF:-1 tvg-name="老撾 Ⅰ 布萊恩電視" group-title="海外一線",老撾 Ⅰ 布萊恩電視
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-name="亞洲新聞" group-title="海外一線",亞洲新聞
-https://mrw.so/5ddV7f
-#EXTINF:-1 tvg-name="亞洲新聞" group-title="海外一線",亞洲新聞
-https://mrw.so/4nkE9M
 #EXTINF:-1 tvg-name="亞旅衛視" group-title="臺灣頻道1",亞旅衛視
 http://154.90.1.188/bkplay.php?id=168198
 #EXTINF:-1 tvg-name="明珠臺" group-title="高清港臺",明珠臺
@@ -1367,18 +1075,10 @@ http://nb.iptv88888.xyz/hls/dsyangpian.m3u8
 http://154.90.1.188/bkplay.php?id=335421
 #EXTINF:-1 tvg-name="東森財經" group-title="臺灣",東森財經
 http://nb.iptv88888.xyz/hls/dscaiji.m3u8
-#EXTINF:-1 tvg-name="東森財經新聞" group-title="臺灣頻道1",東森財經新聞
-http://154.90.1.188/bkplay.php?id=141
 #EXTINF:-1 tvg-name="東森超視" group-title="臺灣",東森超視
 http://nb.iptv88888.xyz/hls/dschaoshi.m3u8
 #EXTINF:-1 tvg-name="東森超視" group-title="高清港臺",東森超視
 rtmp://pullstream-ucan.speedws.com/live/59d6b61a792b44af815dfce1ec125a8c
-#EXTINF:-1 tvg-name="東森新聞" group-title="臺灣頻道1",東森新聞
-http://154.90.1.188/bkplay.php?id=140
-#EXTINF:-1 tvg-name="東森新聞" group-title="臺灣",東森新聞
-http://nb.iptv88888.xyz/hls/dsxinwen.m3u8
-#EXTINF:-1 tvg-name="東森新聞" group-title="高清港臺",東森新聞
-https://pullstream-ucan.speedws.com/live/31887247c19546a685fb467a59355f5d.flv
 #EXTINF:-1 tvg-name="東森電影" group-title="臺灣頻道1",東森電影
 http://154.90.1.188/bkplay.php?id=138
 #EXTINF:-1 tvg-name="東森電影" group-title="臺灣",東森電影
@@ -1395,12 +1095,6 @@ http://nb.iptv88888.xyz/hls/dsxiju.m3u8
 rtmp://pullstream-ucan.speedws.com/live/6ebd3b727c1f44a1933e8fafe2dafa10
 #EXTINF:-1 tvg-name="阿爾巴利亞" group-title="海外二線",阿爾巴利亞
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-#EXTINF:-1 tvg-name="非凡新聞" group-title="臺灣頻道1",非凡新聞
-http://154.90.1.188/bkplay.php?id=70
-#EXTINF:-1 tvg-name="非凡新聞" group-title="臺灣",非凡新聞
-http://nb.iptv88888.xyz/hls/ffxinwen.m3u8
-#EXTINF:-1 tvg-name="非凡新聞" group-title="高清港臺",非凡新聞
-https://pullstream-ucan.speedws.com/live/504fa1452d5a497f895904dc54b4b274.flv
 #EXTINF:-1 tvg-name="星空衛視" group-title="高清港臺",星空衛視
 rtmp://pullstream-ucan.speedws.com/live/6691d375d50d4ef3b297f7e468f09b37
 #EXTINF:-1 tvg-name="星衛電影" group-title="臺灣頻道1",星衛電影
@@ -1415,8 +1109,6 @@ rtmp://pullstream-ucan.speedws.com/live/473ae637dc9745e0af76833a897f5774
 http://154.90.1.188/bkplay.php?id=166
 #EXTINF:-1 tvg-name="美國  狗狗寵物" group-title="海外二線",美國  狗狗寵物
 http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 tvg-name="美國 Ⅰ FOX 體育新聞" group-title="海外二線",美國 Ⅰ FOX 體育新聞
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-name="美國 Ⅰ MTV 音樂頻道" group-title="海外二線",美國 Ⅰ MTV 音樂頻道
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-name="美國 Ⅰ 布蘭奇電視" group-title="海外二線",美國 Ⅰ 布蘭奇電視
@@ -1471,10 +1163,6 @@ rtmp://pullstream-ucan.speedws.com/live/327b81607e854dae887b2a608ec243b7
 http://154.90.1.188/bkplay.php?id=38
 #EXTINF:-1 tvg-name="博斯運動2" group-title="臺灣頻道1",博斯運動2
 http://154.90.1.188/bkplay.php?id=42
-#EXTINF:-1 tvg-name="壹新聞" group-title="臺灣頻道1",壹新聞
-http://154.90.1.188/bkplay.php?id=67809
-#EXTINF:-1 tvg-name="壹新聞" group-title="臺灣",壹新聞
-http://nb.iptv88888.xyz/hls/yixinwen.m3u8
 #EXTINF:-1 tvg-name="彭博財經(美)Bloomberg TV" group-title="海外二線",彭博財經(美)Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-name="斯洛伐克 Ⅰ WAU 頻道" group-title="海外一線",斯洛伐克 Ⅰ WAU 頻道
@@ -1485,14 +1173,8 @@ http://nn2.joj.sk/hls/wau-540.m3u8
 http://nn2.joj.sk/hls/joj-540.m3u8
 #EXTINF:-1 tvg-name="斯諾伐克l J O J 頻道" group-title="海外二線",斯諾伐克l J O J 頻道
 http://nn2.joj.sk/hls/joj-540.m3u8
-#EXTINF:-1 tvg-name="朝鮮中央臺" group-title="日韓頻道",朝鮮中央臺
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 tvg-name="朝鮮中央頻道" group-title="海外二線",朝鮮中央頻道
-http://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 tvg-name="無線財經" group-title="高清港臺",無線財經
 rtmp://pullstream-ucan.speedws.com/live/bde44cf9dcfb45fbb879ae3912771383
-#EXTINF:-1 tvg-name="無線新聞" group-title="高清港臺",無線新聞
-https://pullstream-ucan.speedws.com/live/0afe87e3b1eb4d0fb2467c44ef88f40a.flv
 #EXTINF:-1 tvg-name="華納電影" group-title="高清港臺",華納電影
 rtmp://pullstream-ucan.speedws.com/live/1bfcecea95214a94bbab54385b376f9e
 #EXTINF:-1 tvg-name="華視" group-title="臺灣頻道1",華視
@@ -1501,16 +1183,10 @@ http://154.90.1.188/bkplay.php?id=29
 http://nb.iptv88888.xyz/hls/huashi.m3u8
 #EXTINF:-1 tvg-name="華視教育" group-title="臺灣",華視教育
 http://nb.iptv88888.xyz/hls/hsedu.m3u8
-#EXTINF:-1 tvg-name="華視新聞" group-title="臺灣頻道1",華視新聞
-http://154.90.1.188/bkplay.php?id=130017
-#EXTINF:-1 tvg-name="華視新聞" group-title="臺灣",華視新聞
-http://nb.iptv88888.xyz/hls/hsnews.m3u8
 #EXTINF:-1 tvg-name="奧林匹克國際頻道" group-title="海外二線",奧林匹克國際頻道
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 #EXTINF:-1 tvg-name="奧林匹克國際頻道" group-title="海外二線",奧林匹克國際頻道
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 tvg-name="愛爾達體育1" group-title="臺灣頻道1",愛爾達體育1
-http://154.90.1.188/bkplay.php?id=174473
 #EXTINF:-1 tvg-name="新加坡" group-title="海外二線",新加坡
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="新加坡5頻道" group-title="海外二線",新加坡5頻道
@@ -1527,12 +1203,6 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 #EXTINF:-1 tvg-name="新妙米頻道" group-title="海外二線",新妙米頻道
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1 tvg-name="新馬 Ⅰ 亞洲新聞" group-title="海外二線",新馬 Ⅰ 亞洲新聞
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-#EXTINF:-1 tvg-name="新馬 Ⅰ 亞洲新聞" group-title="海外二線",新馬 Ⅰ 亞洲新聞
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-name="新馬l亞洲新聞" group-title="海外二線",新馬l亞洲新聞
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="新馬l朝陽頻道" group-title="海外二線",新馬l朝陽頻道
 http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 tvg-name="新傳媒 8" group-title="海外一線",新傳媒 8
@@ -1557,12 +1227,6 @@ rtmp://pullstream-ucan.speedws.com/live/0b06c2e552a141d5b39dff8e0cf781b3
 http://154.90.1.188/bkplay.php?id=25
 #EXTINF:-1 tvg-name="臺視" group-title="臺灣",臺視
 http://nb.iptv88888.xyz/hls/taishi.m3u8
-#EXTINF:-1 tvg-name="臺視新聞" group-title="臺灣頻道1",臺視新聞
-http://154.90.1.188/bkplay.php?id=200595
-#EXTINF:-1 tvg-name="臺視新聞" group-title="臺灣",臺視新聞
-http://nb.iptv88888.xyz/hls/tsxinwen.m3u8
-#EXTINF:-1 tvg-name="臺視新聞" group-title="高清港臺",臺視新聞
-https://pullstream-ucan.speedws.com/live/826bcf33e6244d5f85ac37a5950fe9fc.flv
 #EXTINF:-1 tvg-name="臺視綜合" group-title="臺灣頻道1",臺視綜合
 http://154.90.1.188/bkplay.php?id=26
 #EXTINF:-1 tvg-name="臺視綜合" group-title="臺灣",臺視綜合
@@ -1575,8 +1239,6 @@ rtmp://pullstream-ucan.speedws.com/live/e7a4c363694a4d1fab1349c07c1887be
 rtmp://pullstream-ucan.speedws.com/live/647af125c6eb489087d53548ad378f2b
 #EXTINF:-1 tvg-name="廣東珠江超清" group-title="高清港臺",廣東珠江超清
 https://pullstream-ucan.speedws.com/live/3b225688305f4420ac6e877701564dc6.flv
-#EXTINF:-1 tvg-name="廣東體育高清" group-title="高清港臺",廣東體育高清
-https://pullstream-ucan.speedws.com/live/8778075ca4c040638938ac159297e49e.flv
 #EXTINF:-1 tvg-name="緯來日本" group-title="臺灣",緯來日本
 http://nb.iptv88888.xyz/hls/wljpan.m3u8
 #EXTINF:-1 tvg-name="緯來電影" group-title="臺灣頻道1",緯來電影
@@ -1589,22 +1251,12 @@ http://nb.iptv88888.xyz/hls/wljingcai.m3u8
 http://nb.iptv88888.xyz/hls/wlzonghe.m3u8
 #EXTINF:-1 tvg-name="緯來戲劇" group-title="臺灣",緯來戲劇
 http://nb.iptv88888.xyz/hls/wlxiju.m3u8
-#EXTINF:-1 tvg-name="緯來體育" group-title="臺灣頻道1",緯來體育
-http://154.90.1.188/bkplay.php?id=129
-#EXTINF:-1 tvg-name="緯來體育" group-title="臺灣",緯來體育
-http://nb.iptv88888.xyz/hls/wltiyu.m3u8
 #EXTINF:-1 tvg-name="衛視國際電影" group-title="臺灣頻道1",衛視國際電影
 http://154.90.1.188/gz168.php?id=wsgjdy
 #EXTINF:-1 tvg-name="衛視電影" group-title="臺灣頻道1",衛視電影
 http://154.90.1.188/bkplay.php?id=127
 #EXTINF:-1 tvg-name="衛視電影" group-title="臺灣",衛視電影
 http://nb.iptv88888.xyz/hls/wstime.m3u8
-#EXTINF:-1 tvg-name="衛視體育" group-title="臺灣頻道1",衛視體育
-http://154.90.1.188/gz168.php?id=wsty
-#EXTINF:-1 tvg-name="衛視體育1臺" group-title="海外二線",衛視體育1臺
-http://47.240.60.73/gzyx.php?id=wsty1
-#EXTINF:-1 tvg-name="衛視體育2臺" group-title="海外二線",衛視體育2臺
-http://47.240.60.73/gzyx.php?id=wsty
 #EXTINF:-1 tvg-name="魅力足球" group-title="高清港臺",魅力足球
 rtmp://pullstream-ucan.speedws.com/live/33b6f6c7fc284b7cbb585e6c8f6d82d1
 #EXTINF:-1 tvg-name="매일경제TV" group-title="日韓頻道",매일경제TV
@@ -1613,12 +1265,6 @@ rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
 http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
 #EXTINF:-1 tvg-name="寰宇財經" group-title="臺灣",寰宇財經
 http://nb.iptv88888.xyz/hls/hycaiji.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞" group-title="臺灣頻道1",寰宇新聞
-http://154.90.1.188/bkplay.php?id=55
-#EXTINF:-1 tvg-name="寰宇新聞" group-title="臺灣",寰宇新聞
-http://nb.iptv88888.xyz/hls/huanyu1.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞2" group-title="臺灣頻道1",寰宇新聞2
-http://154.90.1.188/bkplay.php?id=169
 #EXTINF:-1 tvg-name="寰宇臺灣" group-title="臺灣",寰宇臺灣
 http://nb.iptv88888.xyz/hls/huanyu2.m3u8
 #EXTINF:-1 tvg-name="澳亞衛視" group-title="臺灣頻道1",澳亞衛視
@@ -1699,14 +1345,6 @@ http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="韓國 Ⅰ WFC" group-title="日韓頻道",韓國 Ⅰ WFC
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="韓國 Ⅰ YTN 聯合新聞" group-title="海外二線",韓國 Ⅰ YTN 聯合新聞
-http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
-#EXTINF:-1 tvg-name="韓國 Ⅰ YTN 聯合新聞" group-title="海外一線",韓國 Ⅰ YTN 聯合新聞
-http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
-#EXTINF:-1 tvg-name="韓國 Ⅰ YTN 聯合新聞" group-title="日韓頻道",韓國 Ⅰ YTN 聯合新聞
-http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
-#EXTINF:-1 tvg-name="韓國 Ⅰ YTN 聯合新聞" group-title="日韓頻道",韓國 Ⅰ YTN 聯合新聞
-http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 #EXTINF:-1 tvg-name="韓國 Ⅰ 阿里郎WORLD" group-title="海外二線",韓國 Ⅰ 阿里郎WORLD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 #EXTINF:-1 tvg-name="韓國 Ⅰ 阿里郎WORLD" group-title="日韓頻道",韓國 Ⅰ 阿里郎WORLD
@@ -1717,10 +1355,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="韓國 Ⅰ 阿里郎WORLDworld" group-title="日韓頻道",韓國 Ⅰ 阿里郎WORLDworld
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="韓國 Ⅰ 朝鮮中央臺" group-title="日韓頻道",韓國 Ⅰ 朝鮮中央臺
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 tvg-name="韓國 Ⅰ 朝鮮中央臺" group-title="日韓頻道",韓國 Ⅰ 朝鮮中央臺
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-name="韓國BBS佛教廣播" group-title="日韓頻道",韓國BBS佛教廣播
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 #EXTINF:-1 tvg-name="韓國EBS 少兒頻道" group-title="日韓頻道",韓國EBS 少兒頻道
@@ -1745,16 +1379,12 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="韓國lUBC SBS" group-title="海外二線",韓國lUBC SBS
 http://59.25.202.81:1935/live/UBCstream/chunklist_w1495115977.m3u8
-#EXTINF:-1 tvg-name="韓國l朝鮮中央臺" group-title="海外一線",韓國l朝鮮中央臺
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-name="韓國MBC MAX" group-title="日韓頻道",韓國MBC MAX
 http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1 tvg-name="韓國MBC MAX" group-title="日韓頻道",韓國MBC MAX
 http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1 tvg-name="韓國UBC SBS" group-title="日韓頻道",韓國UBC SBS
 http://59.25.202.81:1935/live/UBCstream/chunklist_w1495115977.m3u8
-#EXTINF:-1 tvg-name="韓國YTN 聯合新聞" group-title="日韓頻道",韓國YTN 聯合新聞
-http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 #EXTINF:-1 tvg-name="韓國阿里郎WORLD" group-title="日韓頻道",韓國阿里郎WORLD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 #EXTINF:-1 tvg-name="韓國阿里郎WORLDworld" group-title="日韓頻道",韓國阿里郎WORLDworld
