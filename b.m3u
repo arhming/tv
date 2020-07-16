@@ -1,0 +1,833 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="美国 I 美国之音" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",美国 I 美国之音
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+#EXTINF:-1 tvg-name="WakuWaku Japan" tvg-id="7170" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Wakuwaku.png",WakuWaku Japan
+https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_sleng.m3u8
+#EXTINF:-1 tvg-name="tVN Asia" tvg-id="6159" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",tVN Asia
+https://vcdnjt.useetv.com/joss/15/tvn/chunklist_sleng.m3u8
+#EXTINF:-1 tvg-name="North Korea TV" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",North Korea TV
+https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-name="TJK TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TJK TV
+https://tjktv.ercdn.net/tjktv_720p.m3u8
+#EXTINF:-1 tvg-name="SWR Dasding" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",SWR Dasding
+https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8
+#EXTINF:-1 tvg-name="SBS Plus" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 tvg-name="SBS International" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 tvg-name="韩国 I SBS 星级频道" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",韩国 I SBS 星级频道
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1 tvg-name="SBS Star" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+#EXTINF:-1 tvg-name="ZTV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",ZTV
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 tvg-name="HD КИНО" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",HD КИНО
+https://str.pcradio.ru/gr_Kino-med
+#EXTINF:-1 tvg-name="V音乐" tvg-id="N/A" group-title="高清港台" tvg-logo="N/A",V音乐
+https://pullstream-ucan.speedws.com/live/495c3a14306b4517be21162c04d8fa72.flv
+#EXTINF:-1 tvg-name="广东珠江超清" tvg-id="7125" group-title="高清港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png",广东珠江超清
+https://pullstream-ucan.speedws.com/live/3b225688305f4420ac6e877701564dc6.flv
+#EXTINF:-1 tvg-name="TLC HD" tvg-id="6038" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png",TLC HD
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 tvg-name="En TV/ZOOM (Энергодар)" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",En TV/ZOOM (Энергодар)
+https://oriontv.net/hls/480.m3u8
+#EXTINF:-1 tvg-name="Skrypin UA" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Skrypin UA
+https://open-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1 tvg-name="Rik" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Rik
+https://nn.geo.joj.sk/live/rik-index.m3u8
+#EXTINF:-1 tvg-name="日本NHK华语" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1 tvg-name="NHK 华语视界" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",NHK 华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-name="日本NHK World" tvg-id="331" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png",日本NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/domestic/playlist.m3u8
+#EXTINF:-1 tvg-name="日本NHK World" tvg-id="331" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png",日本NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wi_s.m3u8
+#EXTINF:-1 tvg-name="日本NHK World" tvg-id="331" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png",日本NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:-1 tvg-name="NHK World Japan" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-name="日本 I NHK 日本国际" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",日本 I NHK 日本国际
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-name="日本 I NHK 世界频道" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",日本 I NHK 世界频道
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+#EXTINF:-1 tvg-name="日本NHK英语" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本NHK英语
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 tvg-name="KBS World" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",KBS World
+https://neaoiomcci.vieon.vn/hls/3b55e4ebc76ddcdd356483cda854a14c/1585210650836/live/kbs_world_1080p/index.m3u8
+#EXTINF:-1 tvg-name="韩国 I EBS 第一频道" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",韩国 I EBS 第一频道
+https://mrw.so/5sfX5L?dsjtv.com/20200205.m3u8
+#EXTINF:-1 tvg-name="日本 I NHK 华语视界" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",日本 I NHK 华语视界
+https://mrw.so/5kK9VQ?dsjtv.com/20200205.m3u8
+#EXTINF:-1 tvg-name="日本电影" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",日本电影
+https://mrw.so/55LUnw
+#EXTINF:-1 tvg-name="半岛电视" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",半岛电视
+https://mrw.so/4uaVYL?dsjtv.com/20200205.m3u8
+#EXTINF:-1 tvg-name="韩国 I EBS 少儿频道" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",韩国 I EBS 少儿频道
+https://mrw.so/4uaVk7?dsjtv.com/20200205.m3u8
+#EXTINF:-1 tvg-name="美国 I 美国中文" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",美国 I 美国中文
+https://mrw.so/4uaRST?dsjtv.com/20200205.m3u8
+#EXTINF:-1 tvg-name="韩国 I SBS 影视频道" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",韩国 I SBS 影视频道
+https://mrw.so/4nkFJ2?dsjtv.com/20200205.m3u8
+#EXTINF:-1 tvg-name="新传媒 8" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",新传媒 8
+https://mrw.so/4Jdjuh
+#EXTINF:-1 tvg-name="新传媒 8" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",新传媒 8
+https://mrw.so/4BH66I
+#EXTINF:-1 tvg-name="NBS한국농업방송" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",NBS한국농업방송
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="WIF-TV HD" tvg-id="701" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png",WIF-TV HD
+https://live-wif.cdnvideo.ru/hls/573b349878c5685204e10800/720p.m3u8
+#EXTINF:-1 tvg-name="ALIENTO VISION TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",ALIENTO VISION TV
+https://livestreamcdn.net:444/AlientoSD/smil:AlientoSD.smil/chunklist_w1952507674_b1300000_slen.m3u8
+#EXTINF:-1 tvg-name="Bloomberg (EN)" tvg-id="6140" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg (EN)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1 tvg-name="Atameken Business" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Atameken Business
+https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="美国Cheddar电视" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",美国Cheddar电视
+https://live.chdrstatic.com/cheddar/primary/4.m3u8
+#EXTINF:-1 tvg-name="ATG" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-name="日本 I 宝石GSTV" tvg-id="6138" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png",日本 I 宝石GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="日本 I 宝石GSTV" tvg-id="6138" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png",日本 I 宝石GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
+#EXTINF:-1 tvg-name="Magic TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Magic TV
+https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="NRJ TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",NRJ TV
+https://edge9.vedge.infomaniak.com/livecast/smil:energytv.smil/manifest.m3u8
+#EXTINF:-1 tvg-name="新加坡5频道" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",新加坡5频道
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:-1 tvg-name="新加坡OktoOn5" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",新加坡OktoOn5
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
+#EXTINF:-1 tvg-name="全美电视" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",全美电视
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 tvg-name="新妙米频道" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",新妙米频道
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 tvg-name="Miao Mi TV" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",Miao Mi TV
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+#EXTINF:-1 tvg-name="新加坡U频道" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",新加坡U频道
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:-1 tvg-name="新加坡春天" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",新加坡春天
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+#EXTINF:-1 tvg-name="CTS기독교TV" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",CTS기독교TV
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 tvg-name="新加坡8频道" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",新加坡8频道
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 tvg-name="新加坡" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",新加坡
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-name="新加坡SuriaTV" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",新加坡SuriaTV
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 tvg-name="Spirit TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 tvg-name="CBSN HD" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",CBSN HD
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
+#EXTINF:-1 tvg-name="美国CSBN" tvg-id="6111" group-title="海外二线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SBN.png",美国CSBN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
+#EXTINF:-1 tvg-name="日本 I NHK 世界频道" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",日本 I NHK 世界频道
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
+#EXTINF:-1 tvg-name="HallyPOP" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",HallyPOP
+https://809.cdn.nextologies.com/ngrp:Player.stream_all/chunklist_b4128000.m3u8
+#EXTINF:-1 tvg-name="CTV8" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",CTV8
+https://1909041562.rsc.cdn77.org/LS-50041-SIN-15/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="D Music" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",D Music
+https://1765965335.rsc.cdn77.org/LS-50041-SIN-18/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="TVK" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",TVK
+https://1749089154.rsc.cdn77.org/LS-50041-SIN-3/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="MyTV" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",MyTV
+https://1737081326.rsc.cdn77.org/LS-50041-SIN-6/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="Town TV Full HD" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",Town TV Full HD
+https://1661779960.rsc.cdn77.org/LS-50041-SIN-16/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="TV5" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",TV5
+https://1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="Nice TV" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",Nice TV
+https://1546733910.rsc.cdn77.org/LS-50041-SIN-14/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="Bayon TV" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",Bayon TV
+https://1523926405.rsc.cdn77.org/LS-50041-SIN-8/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="Apsara TV" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",Apsara TV
+https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="TV3 HD" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",TV3 HD
+https://1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="Bull & Chicken Showtime" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",Bull & Chicken Showtime
+https://1396402344.rsc.cdn77.org/LS-50041-SIN-23/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="PNN" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",PNN
+https://1345225764.rsc.cdn77.org/LS-50041-SIN-2/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="Hang Meas HDTV" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",Hang Meas HDTV
+https://1145067750.rsc.cdn77.org/LS-50041-SIN-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ETV" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",ETV
+https://1054166422.rsc.cdn77.org/LS-50041-SIN-9/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="TV9 HDTV" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",TV9 HDTV
+https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="CTN" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",CTN
+https://1004597868.rsc.cdn77.org/LS-50041-SIN-5/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="YTN KOREA" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",YTN KOREA
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist.m3u8
+#EXTINF:-1 tvg-name="日本 I 声优广播" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本 I 声优广播
+http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+#EXTINF:-1 tvg-name="NASA TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",NASA TV
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+#EXTINF:-1 tvg-name="SBScnbc" tvg-id="688" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png",SBScnbc
+http://wowlive.sbs.co.kr/sbscnbc/_definst_/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NzgxMzYwODksInBhdGgiOiIvc2JzY25iYy9fZGVmaW5zdF8vc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xfQ.fxwrJist8p1o_o_8QSTRBja3L7ji5YUUBRqTTJCOw9c
+#EXTINF:-1 tvg-name="Company TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Company TV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/chunklist_w1677522406.m3u8
+#EXTINF:-1 tvg-name="World Fashion Internation" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",World Fashion Internation
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-name="高清时装台WFC" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",高清时装台WFC
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-name="韩国 I WFC" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",韩国 I WFC
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Most Video 2" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Most Video 2
+http://w4.mostvideo.tv/heltv/ch2.m3u8
+#EXTINF:-1 tvg-name="美国  狗狗宠物" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",美国  狗狗宠物
+http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 tvg-name="Accent TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Accent TV
+http://video.a-tv.md/hls/accent.m3u8
+#EXTINF:-1 tvg-name="美国 I MTV 音乐频道" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",美国 I MTV 音乐频道
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-name="电影" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",电影
+http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-name="阿尔巴利亚" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",阿尔巴利亚
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:-1 tvg-name="TVM3" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TVM3
+http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-name="TV7+ (Хмельн)" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TV7+ (Хмельн)
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1 tvg-name="N4" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",N4
+http://tv.vodafoneplay.is/n4/02.m3u8
+#EXTINF:-1 tvg-name="NRG 91 TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",NRG 91 TV
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-id="6083" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png",HBO
+http://tv.fast-iptv.info:12974/live/NybudGmygN/QKXO7gjdc9/86.ts
+#EXTINF:-1 tvg-name="DMF" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",DMF
+http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8
+#EXTINF:-1 tvg-name="TV TRWAM" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TV TRWAM
+http://trwamtv.live.e96-jw.insyscd.net/trwamtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="TBS" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",TBS
+http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
+#EXTINF:-1 tvg-name="Ytv" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",Ytv
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-name="Global Star" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Global Star
+http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
+#EXTINF:-1 tvg-name="Retro Tv" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Retro Tv
+http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-name="STARS TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",STARS TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
+#EXTINF:-1 tvg-name="SONG TV Armenia" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",SONG TV Armenia
+http://songtvam.ru:8060/hd/playlist.m3u8
+#EXTINF:-1 tvg-name="YTN" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",YTN
+http://slive.ytn.co.kr/ytn/definst/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 tvg-name="KOREA YTN Science" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",KOREA YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Movie Classic" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Movie Classic
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 tvg-name="HD Media" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",HD Media
+http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1 tvg-name="A2" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",A2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 tvg-name="Silence TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Silence TV
+http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/chunklist_w131157424.m3u8
+#EXTINF:-1 tvg-name="RTM 2" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",RTM 2
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1 tvg-name="RTM 1" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",RTM 1
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1 tvg-name="MM TV BG" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",MM TV BG
+http://pri.cdn.bg:2113/fls/mmtv.stream/.m3u8
+#EXTINF:-1 tvg-name="Shot TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Shot TV
+http://persik.by/stream/8138/423934/10454.m3u8
+#EXTINF:-1 tvg-name="GOD TV (USA)" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",GOD TV (USA)
+http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/index_3200_av-p.m3u8
+#EXTINF:-1 tvg-name="TOP LATINO | SD" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TOP LATINO | SD
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TOP latino TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TOP latino TV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="ECKO EXPRES  music" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",ECKO EXPRES  music
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
+#EXTINF:-1 tvg-name="斯洛伐克l WAU 频道" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",斯洛伐克l WAU 频道
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 tvg-name="斯诺伐克l J O J 频道" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",斯诺伐克l J O J 频道
+http://nn2.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1 tvg-name="中天综合" tvg-id="6054" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png",中天综合
+http://nb.iptv88888.xyz/hls/ztzonghe.m3u8
+#EXTINF:-1 tvg-name="中天娱乐" tvg-id="6057" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png",中天娱乐
+http://nb.iptv88888.xyz/hls/ztyule.m3u8
+#EXTINF:-1 tvg-name="中视箐采" tvg-id="N/A" group-title="台湾" tvg-logo="N/A",中视箐采
+http://nb.iptv88888.xyz/hls/zsqingcai.m3u8
+#EXTINF:-1 tvg-name="中视经典" tvg-id="7172" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视经典.png",中视经典
+http://nb.iptv88888.xyz/hls/zsjingdian.m3u8
+#EXTINF:-1 tvg-name="中视" tvg-id="6028" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png",中视
+http://nb.iptv88888.xyz/hls/zhongshi.m3u8
+#EXTINF:-1 tvg-name="星卫电影" tvg-id="N/A" group-title="台湾" tvg-logo="N/A",星卫电影
+http://nb.iptv88888.xyz/hls/xwtime.m3u8
+#EXTINF:-1 tvg-name="纬来综合" tvg-id="6044" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png",纬来综合
+http://nb.iptv88888.xyz/hls/wlzonghe.m3u8
+#EXTINF:-1 tvg-name="纬来戏剧" tvg-id="6061" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png",纬来戏剧
+http://nb.iptv88888.xyz/hls/wlxiju.m3u8
+#EXTINF:-1 tvg-name="纬来电影" tvg-id="6081" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png",纬来电影
+http://nb.iptv88888.xyz/hls/wlmovie.m3u8
+#EXTINF:-1 tvg-name="纬来日本" tvg-id="6095" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png",纬来日本
+http://nb.iptv88888.xyz/hls/wljpan.m3u8
+#EXTINF:-1 tvg-name="纬来精采" tvg-id="7197" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weilaojingcai.png",纬来精采
+http://nb.iptv88888.xyz/hls/wljingcai.m3u8
+#EXTINF:-1 tvg-name="TVBS" tvg-id="6074" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png",TVBS
+http://nb.iptv88888.xyz/hls/tvbsm.m3u8
+#EXTINF:-1 tvg-name="TVBS欢乐" tvg-id="6060" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png",TVBS欢乐
+http://nb.iptv88888.xyz/hls/tvbshuanle.m3u8
+#EXTINF:-1 tvg-name="台视综合" tvg-id="6145" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视综合.png",台视综合
+http://nb.iptv88888.xyz/hls/ttvzonghe.m3u8
+#EXTINF:-1 tvg-name="天映频道" tvg-id="N/A" group-title="台湾" tvg-logo="N/A",天映频道
+http://nb.iptv88888.xyz/hls/tianyingpd.m3u8
+#EXTINF:-1 tvg-name="天映经典" tvg-id="828" group-title="台湾" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png",天映经典
+http://nb.iptv88888.xyz/hls/tianyingjd.m3u8
+#EXTINF:-1 tvg-name="台视" tvg-id="6026" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台视
+http://nb.iptv88888.xyz/hls/taishi.m3u8
+#EXTINF:-1 tvg-name="starmovies" tvg-id="N/A" group-title="台湾" tvg-logo="N/A",starmovies
+http://nb.iptv88888.xyz/hls/starmovies.m3u8
+#EXTINF:-1 tvg-name="三立综合" tvg-id="6239" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png",三立综合
+http://nb.iptv88888.xyz/hls/slzonghe.m3u8
+#EXTINF:-1 tvg-name="三立戏剧" tvg-id="7221" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png",三立戏剧
+http://nb.iptv88888.xyz/hls/slxiju.m3u8
+#EXTINF:-1 tvg-name="三立台湾" tvg-id="6047" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台湾
+http://nb.iptv88888.xyz/hls/sltaiwan.m3u8
+#EXTINF:-1 tvg-name="三立都会" tvg-id="6048" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立都会
+http://nb.iptv88888.xyz/hls/sldouhui.m3u8
+#EXTINF:-1 tvg-name="RT" tvg-id="N/A" group-title="台湾" tvg-logo="N/A",RT
+http://nb.iptv88888.xyz/hls/rttime.m3u8
+#EXTINF:-1 tvg-name="国家地理" tvg-id="691" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png",国家地理
+http://nb.iptv88888.xyz/hls/natgeo.m3u8
+#EXTINF:-1 tvg-name="mtvlive" tvg-id="N/A" group-title="台湾" tvg-logo="N/A",mtvlive
+http://nb.iptv88888.xyz/hls/mtvlive.m3u8
+#EXTINF:-1 tvg-name="民视台湾" tvg-id="7134" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png",民视台湾
+http://nb.iptv88888.xyz/hls/mstaiwan.m3u8
+#EXTINF:-1 tvg-name="民视第一" tvg-id="7133" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png",民视第一
+http://nb.iptv88888.xyz/hls/msone.m3u8
+#EXTINF:-1 tvg-name="民视" tvg-id="7135" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png",民视
+http://nb.iptv88888.xyz/hls/minshi.m3u8
+#EXTINF:-1 tvg-name="龙翔电影" tvg-id="N/A" group-title="台湾" tvg-logo="N/A",龙翔电影
+http://nb.iptv88888.xyz/hls/lxtime.m3u8
+#EXTINF:-1 tvg-name="龙华洋片" tvg-id="7132" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华洋片.png",龙华洋片
+http://nb.iptv88888.xyz/hls/longhuayangpian.m3u8
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-id="7127" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png",龙华戏剧
+http://nb.iptv88888.xyz/hls/longhuaxiju.m3u8
+#EXTINF:-1 tvg-name="龙华偶像" tvg-id="7126" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png",龙华偶像
+http://nb.iptv88888.xyz/hls/longhuaox.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-id="7128" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png",龙华电影
+http://nb.iptv88888.xyz/hls/longhuamovie.m3u8
+#EXTINF:-1 tvg-name="靖天映画" tvg-id="6116" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天映画.png",靖天映画
+http://nb.iptv88888.xyz/hls/jtyinghua.m3u8
+#EXTINF:-1 tvg-name="靖天电影" tvg-id="7164" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png",靖天电影
+http://nb.iptv88888.xyz/hls/jtmovie.m3u8
+#EXTINF:-1 tvg-name="靖天卡通" tvg-id="6192" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png",靖天卡通
+http://nb.iptv88888.xyz/hls/jtkatong.m3u8
+#EXTINF:-1 tvg-name="靖天国际" tvg-id="7187" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天国际.png",靖天国际
+http://nb.iptv88888.xyz/hls/jtguoji.m3u8
+#EXTINF:-1 tvg-name="华视" tvg-id="6030" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视
+http://nb.iptv88888.xyz/hls/huashi.m3u8
+#EXTINF:-1 tvg-name="寰宇台湾" tvg-id="N/A" group-title="台湾" tvg-logo="N/A",寰宇台湾
+http://nb.iptv88888.xyz/hls/huanyu2.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-id="6083" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png",HBO
+http://nb.iptv88888.xyz/hls/hbohd.m3u8
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-id="6086" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png",好莱坞电影
+http://nb.iptv88888.xyz/hls/haolaiwu.m3u8
+#EXTINF:-1 tvg-name="公视3" tvg-id="6022" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV3HD.png",公视3
+http://nb.iptv88888.xyz/hls/gongshi3.m3u8
+#EXTINF:-1 tvg-name="公视2" tvg-id="565" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png",公视2
+http://nb.iptv88888.xyz/hls/gongshi2.m3u8
+#EXTINF:-1 tvg-name="公视" tvg-id="6031" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公视
+http://nb.iptv88888.xyz/hls/gongshi.m3u8
+#EXTINF:-1 tvg-name="地理野生" tvg-id="N/A" group-title="台湾" tvg-logo="N/A",地理野生
+http://nb.iptv88888.xyz/hls/geowild.m3u8
+#EXTINF:-1 tvg-name="ELTA综合" tvg-id="7219" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png",ELTA综合
+http://nb.iptv88888.xyz/hls/elzonghe.m3u8
+#EXTINF:-1 tvg-name="ELTA影剧" tvg-id="7201" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png",ELTA影剧
+http://nb.iptv88888.xyz/hls/elyingju.m3u8
+#EXTINF:-1 tvg-name="东森幼幼" tvg-id="6043" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png",东森幼幼
+http://nb.iptv88888.xyz/hls/dsyouyou.m3u8
+#EXTINF:-1 tvg-name="东森亚洲" tvg-id="N/A" group-title="台湾" tvg-logo="N/A",东森亚洲
+http://nb.iptv88888.xyz/hls/dsyazhou.m3u8
+#EXTINF:-1 tvg-name="东森洋片" tvg-id="6084" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片
+http://nb.iptv88888.xyz/hls/dsyangpian.m3u8
+#EXTINF:-1 tvg-name="东森戏剧" tvg-id="6058" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png",东森戏剧
+http://nb.iptv88888.xyz/hls/dsxiju.m3u8
+#EXTINF:-1 tvg-name="东森电影" tvg-id="6080" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png",东森电影
+http://nb.iptv88888.xyz/hls/dsmovie.m3u8
+#EXTINF:-1 tvg-name="东森超视" tvg-id="6051" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png",东森超视
+http://nb.iptv88888.xyz/hls/dschaoshi.m3u8
+#EXTINF:-1 tvg-name="东森综合" tvg-id="6050" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png",东森综合
+http://nb.iptv88888.xyz/hls/dongsenzh.m3u8
+#EXTINF:-1 tvg-name="地理人文" tvg-id="N/A" group-title="台湾" tvg-logo="N/A",地理人文
+http://nb.iptv88888.xyz/hls/dilipeople.m3u8
+#EXTINF:-1 tvg-name="大爱" tvg-id="N/A" group-title="台湾" tvg-logo="N/A",大爱
+http://nb.iptv88888.xyz/hls/daaiws.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-id="6023" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
+http://nb.iptv88888.xyz/hls/cnnhd.m3u8
+#EXTINF:-1 tvg-name="bloomberg" tvg-id="6140" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",bloomberg
+http://nb.iptv88888.xyz/hls/bloomberg.m3u8
+#EXTINF:-1 tvg-name="八大综合" tvg-id="6046" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png",八大综合
+http://nb.iptv88888.xyz/hls/bdzonghe.m3u8
+#EXTINF:-1 tvg-name="八大娱乐" tvg-id="6133" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png",八大娱乐
+http://nb.iptv88888.xyz/hls/bdyule.m3u8
+#EXTINF:-1 tvg-name="八大戏剧" tvg-id="6059" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png",八大戏剧
+http://nb.iptv88888.xyz/hls/bdxiju.m3u8
+#EXTINF:-1 tvg-name="八大第一" tvg-id="6045" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png",八大第一
+http://nb.iptv88888.xyz/hls/bddiyi.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-id="6085" group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png",AXN
+http://nb.iptv88888.xyz/hls/axnhd.m3u8
+#EXTINF:-1 tvg-name="Nano TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 tvg-name="Luxury World" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",Luxury World
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 tvg-name="BabyFirst" tvg-id="7143" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png",BabyFirst
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-name="ウェザーニュース" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-name="日本天気予报" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本天気予报
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-name="日本 I TOKYO" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本 I TOKYO
+http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
+#EXTINF:-1 tvg-name="국방TV" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",국방TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="M20" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 tvg-name="M2OTV" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",M2OTV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-name="美国l 美国中央台" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",美国l 美国中央台
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+#EXTINF:-1 tvg-name="美国 I 布兰奇电视" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",美国 I 布兰奇电视
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1 tvg-name="Ocean TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Ocean TV
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/playlist.m3u8
+#EXTINF:-1 tvg-name="TLX" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:-1 tvg-name="Music Top" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1 tvg-name="Music Top | HD" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-name="DocuBox" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",DocuBox
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:-1 tvg-name="H2" tvg-id="7153" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/History2.png",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 tvg-name="Atameken" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Atameken
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Atameken" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Atameken
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-name="Discovery Science" tvg-id="6165" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png",Discovery Science
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1 tvg-name="한국직업방송" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",한국직업방송
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="VB" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",VB
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1 tvg-name="DREAM" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",DREAM
+http://live.netd.com.tr/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-name="DREAM" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",DREAM
+http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",CNN Indonesia
+http://live.cnnindonesia.com:80/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 tvg-name="韩国电视" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",韩国电视
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TV조선" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",TV조선
+http://live.chosun.gscdn.com/live/definst/tvchosun3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="TV Chosun" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TV Chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="美国l 中国环球 (美国)" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",美国l 中国环球 (美国)
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TV8
+http://live.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-name="Alsace 20" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Fashion TV (SK)" tvg-id="701" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png",Fashion TV (SK)
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1 tvg-name="美国 I 法国时尚" tvg-id="701" group-title="海外二线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png",美国 I 法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 tvg-name="KPRF" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",KPRF
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1 tvg-name="Disney" tvg-id="6041" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png",Disney
+http://iptv4.premium-stv.com:8000/live/ESPCHPRO1/YzNiCJZsIA/143.ts
+#EXTINF:-1 tvg-name="Simon" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Simon
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 5" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TV 5
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:-1 tvg-name="H!T Music Channel" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",H!T Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 tvg-name="美国Denver 8 TV" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",美国Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 tvg-name="ACTV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",ACTV
+http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
+#EXTINF:-1 tvg-name="Sky Folk TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Sky Folk TV
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-name="ArteTV" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",ArteTV
+http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="이데일리TV" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",이데일리TV
+http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="ebs+2" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",ebs+2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-name="韩国EBS 第一频道" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",韩国EBS 第一频道
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-name="韩国EBS 少儿频道" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",韩国EBS 少儿频道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-name="韩国 I EBS 儿童频道" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",韩国 I EBS 儿童频道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 tvg-name="EBS English" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="EBS플러스2" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",EBS플러스2
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-name="EBS플러스1" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",EBS플러스1
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-name="EBS Kids" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-name="EBS2" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="EBS" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",EBS
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="美国TVW2" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",美国TVW2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1 tvg-name="新传媒 8" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",新传媒 8
+http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master.m3u8
+#EXTINF:-1 tvg-name="Ariana TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Ariana TV
+http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
+#EXTINF:-1 tvg-name="新马l朝阳频道" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",新马l朝阳频道
+http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 tvg-name="CONTACT music" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",CONTACT music
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8
+#EXTINF:-1 tvg-name="TVS" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",TVS
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:-1 tvg-name="日本QVC" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本QVC
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-name="BH TV PERU" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",BH TV PERU
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u
+#EXTINF:-1 tvg-name="Bambarbia TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Bambarbia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Bambarbia TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Bambarbia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1 tvg-name="G TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",G TV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-name="G TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",G TV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1 tvg-name="Reporter" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Reporter
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/chunks.m3u8
+#EXTINF:-1 tvg-name="TVM Channel" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TVM Channel
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Keep it Country TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Keep it Country TV
+http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
+#EXTINF:-1 tvg-name="WOW!TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",WOW!TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 tvg-name="WOW!TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",WOW!TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 tvg-name="Credo TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/chunklist_b762000.m3u8
+#EXTINF:-1 tvg-name="Catholic TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Catholic TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+#EXTINF:-1 tvg-name="Capital TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 tvg-name="日本JapanetChannelDX" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本JapanetChannelDX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 tvg-name="TCT Kids" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TCT Kids
+http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1 tvg-name="Combat Go" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Combat Go
+http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+#EXTINF:-1 tvg-name="CPAC" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:-1 tvg-name="BBS 불교방송" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",BBS 불교방송
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+#EXTINF:-1 tvg-name="Ditty TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Ditty TV
+http://azroe0x-lh.akamaihd.net/i/test_1@775856/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-name="ATR" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1 tvg-name="ANTV" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 tvg-name="Arirang TV" tvg-id="6141" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Arirang TV" tvg-id="6141" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-name="韩国 I 阿里郎WORLD" tvg-id="6141" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",韩国 I 阿里郎WORLD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+#EXTINF:-1 tvg-name="韩国 I 阿里郎WORLDworld" tvg-id="6141" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",韩国 I 阿里郎WORLDworld
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ACB TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",ACB TV
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1 tvg-name="HD Fashion & Lifestyle (U" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",HD Fashion & Lifestyle (U
+http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
+#EXTINF:-1 tvg-name="Ocean TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1 tvg-name="TVS Music" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TVS Music
+http://91.148.117.134:1935/radios/radiosweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Art BG" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TV Art BG
+http://83.222.173.94:1935/tvart/tvart/playlist.m3u8
+#EXTINF:-1 tvg-name="Music Box (SK)" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Music Box (SK)
+http://80.94.54.42/tvnasa/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery World" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Discovery World
+http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1 tvg-name="韩国MBC MAX" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",韩国MBC MAX
+http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1 tvg-name="TV Plus" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TV Plus
+http://62.64.92.118:8000/002
+#EXTINF:-1 tvg-name="E!" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",E!
+http://61.19.244.112:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="NRJ Hits" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",NRJ Hits
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_360p/playlist.m3u8
+#EXTINF:-1 tvg-name="UBC" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",UBC
+http://59.25.202.81:1935/live/UBCstream/playlist.m3u8
+#EXTINF:-1 tvg-name="韩国 I UBC SBS" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",韩国 I UBC SBS
+http://59.25.202.81:1935/live/UBCstream/chunklist_w1495115977.m3u8
+#EXTINF:-1 tvg-name="MelodieTV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",MelodieTV
+http://58b42f6c8c9bf.streamlock.net:1935/live/melodie/playlist.m3u8
+#EXTINF:-1 tvg-name="韩国EBS-E" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",韩国EBS-E
+http://58.229.187.11/plus3familypc/_definst_/familypc1m/chunklist_w426400414.m3u8
+#EXTINF:-1 tvg-name="Nick Kids" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",Nick Kids
+http://54.36.109.228/20600/mono.m3u8
+#EXTINF:-1 tvg-name="ECO TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",ECO TV
+http://54.36.109.228/19300/index.m3u8
+#EXTINF:-1 tvg-name="ZOOM" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",ZOOM
+http://54.36.109.228/18900/index.m3u8
+#EXTINF:-1 tvg-name="Sirius TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Sirius TV
+http://54.36.109.228/14300/mono.m3u8
+#EXTINF:-1 tvg-name="CNN Philippines" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",CNN Philippines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Cbeebies" tvg-id="6187" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png",BBC Cbeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-name="Elita TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:-1 tvg-name="History" tvg-id="7152" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png",History
+http://46.32.68.167/s/live/926/86.169.51.136/1/0.m3u8
+#EXTINF:-1 tvg-name="Travel Channel" tvg-id="6168" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png",Travel Channel
+http://46.32.68.167/s/live/925/86.169.51.136/1/0.m3u8
+#EXTINF:-1 tvg-name="Travel Channel" tvg-id="6168" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png",Travel Channel
+http://46.32.68.167/s/live/925/816951136/819088191919/0.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" tvg-id="6039" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png",Animal Planet
+http://46.32.68.167/s/live/918/86.169.51.136/1/0.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-id="427" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png",Nat Geo Wild
+http://46.32.68.167/s/live/915/86.169.51.136/1/0.m3u8
+#EXTINF:-1 tvg-name="Travel + Adventure" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Travel + Adventure
+http://46.32.68.167/s/live/904/51.51.51.51/1/0.m3u8
+#EXTINF:-1 tvg-name="Nick Jr." tvg-id="6185" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png",Nick Jr.
+http://46.32.68.167/s/live/615/86.169.51.136/1/0.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Discovery Channel
+http://46.32.68.167/s/live/423/816951136/819088191919/0.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-id="6037" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png",Investigation Discovery
+http://46.32.68.167/s/live/403/86.169.51.136/0/0.m3u8
+#EXTINF:-1 tvg-name="World Fashion" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",World Fashion
+http://46.32.68.167/s/live/401/86.169.51.136/1/0.m3u8
+#EXTINF:-1 tvg-name="Amedia Premium" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Amedia Premium
+http://46.32.68.167/s/live/211/86.169.51.136/1/0.m3u8
+#EXTINF:-1 tvg-name="Amedia Hit" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Amedia Hit
+http://46.32.68.167/s/live/210/86.169.51.136/1/0.m3u8
+#EXTINF:-1 tvg-name="A1" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",A1
+http://46.32.68.167/s/live/208/816951136/819088191919/0.m3u8
+#EXTINF:-1 tvg-name="This is Bulgaria" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",This is Bulgaria
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TBC" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",TBC
+http://221.157.125.239:1935/live/psike/playlist.m3u8
+#EXTINF:-1 tvg-name="NHK BS 1" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",NHK BS 1
+http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
+#EXTINF:-1 tvg-name="BS TBS" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",BS TBS
+http://220.158.149.28:8180/live/TV00000000000000000074@HHZT
+#EXTINF:-1 tvg-name="BS 朝日" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",BS 朝日
+http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
+#EXTINF:-1 tvg-name="BSフジ" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",BSフジ
+http://220.158.149.28:8180/live/TV00000000000000000072@HHZT
+#EXTINF:-1 tvg-name="韩国 I KTV 韩国电视" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",韩国 I KTV 韩国电视
+http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Music Box UA" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1 tvg-name="HTV KG" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",HTV KG
+http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-id="7165" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png",AMC
+http://212.121.249.34:8080/amc/index.m3u8
+#EXTINF:-1 tvg-name="MBC" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",MBC
+http://211.54.140.36/hdmi
+#EXTINF:-1 tvg-name="CINEMA" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 tvg-name="Impact" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Impact
+http://206.190.141.27:1935/live/impact.smil/chunklist_w160298037_b296000_slEn.m3u8
+#EXTINF:-1 tvg-name="日本Imagica-BS" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本Imagica-BS
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-name="日本WOWOW MOVIES (JPN|ENG)" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本WOWOW MOVIES (JPN|ENG)
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="日本 I WOWOWO 电影" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本 I WOWOWO 电影
+http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
+#EXTINF:-1 tvg-name="日本映画Nihon Eiga TV" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本映画Nihon Eiga TV
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="日本卫星剧场" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本卫星剧场
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="History" tvg-id="7152" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png",History
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+#EXTINF:-1 tvg-name="日本历史频道HD" tvg-id="7152" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png",日本历史频道HD
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="日本历史频道HD" tvg-id="7152" group-title="日韩频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png",日本历史频道HD
+http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
+#EXTINF:-1 tvg-name="Family Gekijo" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",Family Gekijo
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
+#EXTINF:-1 tvg-name="日本Family Gekijoファミリー剧场" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本Family Gekijoファミリー剧场
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="BS 卫星剧场" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",BS 卫星剧场
+http://192.240.127.34:1935/live/cs11.stream/play.m3u8
+#EXTINF:-1 tvg-name="日本Family Gekijoファミリー剧场" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",日本Family Gekijoファミリー剧场
+http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
+#EXTINF:-1 tvg-name="Deluxe Music" tvg-id="7193" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png",Deluxe Music
+http://188.35.9.5:10007/stolen/200b/parasite.install
+#EXTINF:-1 tvg-name="Glazella" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Glazella
+http://188.242.237.246:65535/udp/239.239.3.72:5239
+#EXTINF:-1 tvg-name="Anyday" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Anyday
+http://188.242.237.246:65535/udp/239.239.3.70:5239
+#EXTINF:-1 tvg-name="Melody channel tv" tvg-id="7186" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eltv.png",Melody channel tv
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 tvg-name="Nick Toons" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Nick Toons
+http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-id="691" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png",National Geographic
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1 tvg-name="BBC" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",BBC
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1 tvg-name="머니투데이방송" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",머니투데이방송
+http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
+#EXTINF:-1 tvg-name="Fine Living" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Fine Living
+http://182.73.122.74:10003/bysid/920
+#EXTINF:-1 tvg-name="Discovery Science" tvg-id="6165" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png",Discovery Science
+http://182.73.122.74:10003/bysid/914
+#EXTINF:-1 tvg-name="TENOR UA" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TENOR UA
+http://178.212.239.228:14502/playlist.m3u8
+#EXTINF:-1 tvg-name="Amedia HBO" tvg-id="6083" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png",Amedia HBO
+http://178.163.89.138:4022/udp/234.0.0.169:2000
+#EXTINF:-1 tvg-name="TiJi" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",TiJi
+http://178.124.183.5/hls/Q0HVVEIKSQ/variant.m3u8
+#EXTINF:-1 tvg-name="RTVI" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",RTVI
+http://178.124.183.5/hls/PN9VRQ5DGR/variant.m3u8
+#EXTINF:-1 tvg-name="Boomerang" tvg-id="6188" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png",Boomerang
+http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-id="427" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png",Nat Geo Wild
+http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8
+#EXTINF:-1 tvg-name="Sony Sci-Fi" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Sony Sci-Fi
+http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Cartoon Network
+http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8
+#EXTINF:-1 tvg-name="Star Cinema" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Star Cinema
+http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8
+#EXTINF:-1 tvg-name="National Geographik" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",National Geographik
+http://178.124.183.5/hls/CH_NATGEO/variant.m3u8
+#EXTINF:-1 tvg-name="Galaxy" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Galaxy
+http://178.124.183.5/hls/CH_GALAXY/variant.m3u8
+#EXTINF:-1 tvg-name="FOX Life" tvg-id="385" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXLIFE.png",FOX Life
+http://178.124.183.5/hls/CH_FOXL/variant.m3u8
+#EXTINF:-1 tvg-name="FOX" tvg-id="6097" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png",FOX
+http://178.124.183.5/hls/CH_FOX/variant.m3u8
+#EXTINF:-1 tvg-name="Star Family" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Star Family
+http://178.124.183.5/hls/CH_FAMILY/variant.m3u8
+#EXTINF:-1 tvg-name="Bolt" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Bolt
+http://178.124.183.5/hls/CH_BOLT/variant.m3u8
+#EXTINF:-1 tvg-name="Amedia Premium" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Amedia Premium
+http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8
+#EXTINF:-1 tvg-name="Europa Plus TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Europa Plus TV
+http://178.124.183.5/hls/BHH8EKRXPO/variant.m3u8
+#EXTINF:-1 tvg-name="Gulli Girl" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Gulli Girl
+http://178.124.183.5/hls/7FFGONY2N8/variant.m3u8
+#EXTINF:-1 tvg-name="American Horrors" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 tvg-name="ZIK" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",ZIK
+http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN 2" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-name="Fox Premium Comedy" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Fox Premium Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1 tvg-name="FOX Premium Cinema" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",FOX Premium Cinema
+http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:-1 tvg-name="AXS TV" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",AXS TV
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:-1 tvg-name="Fox Premium Movies" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 tvg-name="NBC (WTVJ) (EST)" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",NBC (WTVJ) (EST)
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-name="HBO 2 (LA)" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",HBO 2 (LA)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1 tvg-name="MTV USA" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",MTV USA
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-name="Zee World" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Zee World
+http://161.0.157.5/PLTV/88888888/224/3221226542/index.m3u8
+#EXTINF:-1 tvg-name="HBO (LA)" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",HBO (LA)
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1 tvg-name="探索" tvg-id="N/A" group-title="台湾频道1" tvg-logo="N/A",探索
+http://154.90.1.188/gz168.php?id=ts
+#EXTINF:-1 tvg-name="BBC" tvg-id="N/A" group-title="台湾频道1" tvg-logo="N/A",BBC
+http://154.90.1.188/gz168.php?id=bbc
+#EXTINF:-1 tvg-name="AXNHD" tvg-id="6085" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png",AXNHD
+http://154.90.1.188/gz168.php?id=axn
+#EXTINF:-1 tvg-name="动物星球" tvg-id="6039" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png",动物星球
+http://154.90.1.188/bkplay.php?id=72
+#EXTINF:-1 tvg-name="三立台湾" tvg-id="6047" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台湾
+http://154.90.1.188/bkplay.php?id=62
+#EXTINF:-1 tvg-name="中天亚洲" tvg-id="N/A" group-title="台湾频道1" tvg-logo="N/A",中天亚洲
+http://154.90.1.188/bkplay.php?id=59908
+#EXTINF:-1 tvg-name="八大综合" tvg-id="6046" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png",八大综合
+http://154.90.1.188/bkplay.php?id=57
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-id="6086" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png",好莱坞电影
+http://154.90.1.188/bkplay.php?id=54
+#EXTINF:-1 tvg-name="博斯高球2" tvg-id="6178" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png",博斯高球2
+http://154.90.1.188/bkplay.php?id=38
+#EXTINF:-1 tvg-name="东森美洲" tvg-id="N/A" group-title="台湾频道1" tvg-logo="N/A",东森美洲
+http://154.90.1.188/bkplay.php?id=335421
+#EXTINF:-1 tvg-name="中视" tvg-id="6028" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png",中视
+http://154.90.1.188/bkplay.php?id=31
+#EXTINF:-1 tvg-name="华视" tvg-id="6030" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视
+http://154.90.1.188/bkplay.php?id=29
+#EXTINF:-1 tvg-name="台视综合" tvg-id="6145" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视综合.png",台视综合
+http://154.90.1.188/bkplay.php?id=26
+#EXTINF:-1 tvg-name="台视" tvg-id="6026" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台视
+http://154.90.1.188/bkplay.php?id=25
+#EXTINF:-1 tvg-name="公视" tvg-id="6031" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公视
+http://154.90.1.188/bkplay.php?id=23
+#EXTINF:-1 tvg-name="Discovery" tvg-id="6037" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png",Discovery
+http://154.90.1.188/bkplay.php?id=229090
+#EXTINF:-1 tvg-name="国家地理" tvg-id="691" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png",国家地理
+http://154.90.1.188/bkplay.php?id=195971
+#EXTINF:-1 tvg-name="民视第一" tvg-id="7133" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png",民视第一
+http://154.90.1.188/bkplay.php?id=193564
+#EXTINF:-1 tvg-name="民视台湾" tvg-id="7134" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png",民视台湾
+http://154.90.1.188/bkplay.php?id=193563
+#EXTINF:-1 tvg-name="民视" tvg-id="7135" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png",民视
+http://154.90.1.188/bkplay.php?id=174596
+#EXTINF:-1 tvg-name="美亚电影" tvg-id="145" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png",美亚电影
+http://154.90.1.188/bkplay.php?id=166
+#EXTINF:-1 tvg-name="星卫电影" tvg-id="N/A" group-title="台湾频道1" tvg-logo="N/A",星卫电影
+http://154.90.1.188/bkplay.php?id=165
+#EXTINF:-1 tvg-name="中天综合" tvg-id="6054" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png",中天综合
+http://154.90.1.188/bkplay.php?id=145
+#EXTINF:-1 tvg-name="中天娱乐" tvg-id="6057" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png",中天娱乐
+http://154.90.1.188/bkplay.php?id=144
+#EXTINF:-1 tvg-name="东森电影" tvg-id="6080" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png",东森电影
+http://154.90.1.188/bkplay.php?id=138
+#EXTINF:-1 tvg-name="纬来电影" tvg-id="6081" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png",纬来电影
+http://154.90.1.188/bkplay.php?id=132
+#EXTINF:-1 tvg-name="TVBS" tvg-id="6074" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png",TVBS
+http://154.90.1.188/bkplay.php?id=124
+#EXTINF:-1 tvg-name="八大第1" tvg-id="N/A" group-title="台湾频道1" tvg-logo="N/A",八大第1
+http://154.90.1.188/bkplay.php?id=122884
+#EXTINF:-1 tvg-name="HBO" tvg-id="6083" group-title="台湾频道1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png",HBO
+http://154.90.1.188/bkplay.php?id=116
+#EXTINF:-1 tvg-name="Sous FM" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",Sous FM
+http://138.201.226.83:1935/public/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="MUSIC JAPAN" tvg-id="N/A" group-title="海外一线" tvg-logo="N/A",MUSIC JAPAN
+http://122.155.180.8:5021/live/495
+#EXTINF:-1 tvg-name="OBS W" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",OBS W
+http://121.160.102.99:1935/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="韩国 I KCTV" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",韩国 I KCTV
+http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+#EXTINF:-1 tvg-name="KCTV HD" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",KCTV HD
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 tvg-name="KBC" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",KBC
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="STB상생방송" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",STB상생방송
+http://118.130.121.108:1935/live-stb/definst/0d93902639680f27e8fc524d3b292479ca6759f4f0e0a84f35f70fd6f5339332/playlist.m3u8
+#EXTINF:-1 tvg-name="CHAHHEHD7" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",CHAHHEHD7
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
+#EXTINF:-1 tvg-name="MRTV4" tvg-id="N/A" group-title="海外二线" tvg-logo="N/A",MRTV4
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
+#EXTINF:-1 tvg-name="Disney Junior" tvg-id="679" group-title="海外一线" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-name="MBC On" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",MBC On
+http://1.248.219.167/on_preview_500k/definst/on_preview_500k.stream/playlist.m3u8?id=2101&si=0&secure=YzBkMzZiMTMxMmI5OTE0OTg4ZjM0MzE4NTI0MzYwOGVhM2MxODg2NzIzOWQ2NDEzMjk2NTA4OGYwZDNkMjEyZjI1MDcwNjExZTkzZTI2NTVkNzk0NGFjMzA1ZWM2NmIzMzJhYjQ2MjZkOGIzYjc3YTc5N2UyOGY4ZmRlNDc3ZTAxMDQ3YWFhMWYyZTA0ODRjM2RhMWYzMWU0YWYwNTQ3OGMzODRmNjgxY2JhZGUwYmRiZjU3YmI0YjAzZTczNzE4ZjI0NTYzMzVjMGFiOGFkM2MxZmViMmI5MGU3YTRlYzhiZDY3OGNhOTExZmZjZDVlZDU3ZGEzNTM3MjBkN2VhZjc4YzY3N2VhY2FiMmU3MWE2YmNhOWRjMjVlNWE0YjQxN2Q3YjI2M2Y2YmNlYWVjMzljMzhlMThjM2QzODI5ZGIwNjZhYWU2NGFmNDg5NWNjMDUwMjBiODAzM2EwOGVmMQ==&csu=false
+#EXTINF:-1 tvg-name="TJB" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",TJB
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-name="CJB" tvg-id="N/A" group-title="日韩频道" tvg-logo="N/A",CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-name="1" tvg-id="" group-title="" tvg-logo="",
+
