@@ -367,22 +367,6 @@ http://206.190.141.27:1935/live/impact.smil/chunklist_w160298037_b296000_slEn.m3
 http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
 #EXTINF:-1 tvg-name="Investigation Discovery" group-title="海外一線",Investigation Discovery
 http://46.32.68.167/s/live/403/86.169.51.136/0/0.m3u8
-#EXTINF:-1 tvg-name="IZ.RU" group-title="海外一線",IZ.RU
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-name="IZ.RU" group-title="海外一線",IZ.RU
-http://46.32.68.167/s/live/311/86.169.51.136/1/0.m3u8
-#EXTINF:-1 tvg-name="Iнтер" group-title="海外一線",Iнтер
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1 tvg-name="JAMBYL" group-title="海外一線",JAMBYL
-http://onrez.kaztrk.kz/regional/taraztv/index.m3u8
-#EXTINF:-1 tvg-name="Kazakh TV" group-title="海外一線",Kazakh TV
-http://kazakhtvru.ultraiptv.com/live_ru/playlist3/index.m3u8
-#EXTINF:-1 tvg-name="Kazakh TV" group-title="海外一線",Kazakh TV
-http://212.8.233.150:8081/kazahtv/stream_kz/playlist.m3u8
-#EXTINF:-1 tvg-name="Kazakh TV (KZ)" group-title="海外一線",Kazakh TV (KZ)
-http://212.8.233.150:8081/kazahtv/stream_ru/playlist.m3u8
-#EXTINF:-1 tvg-name="KCK TB" group-title="海外一線",KCK TB
-http://109.248.236.41:4433/udp/238.1.1.80:1234
 #EXTINF:-1 tvg-name="Keep it Country TV" group-title="海外一線",Keep it Country TV
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 tvg-name="Kids Click" group-title="海外一線",Kids Click
@@ -407,8 +391,6 @@ http://pri.cdn.bg:2113/fls/mmtv.stream/.m3u8
 http://w4.mostvideo.tv/heltv/ch2.m3u8
 #EXTINF:-1 tvg-name="Movie Classic" group-title="海外一線",Movie Classic
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1 tvg-name="MTV (Уфа)" group-title="海外一線",MTV (Уфа)
-http://online.mtvmix.ru:18092/ios/live.m3u8
 #EXTINF:-1 tvg-name="MTV USA" group-title="海外一線",MTV USA
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-name="Multivision Federal | SD | Salta" group-title="海外一線",Multivision Federal | SD | Salta
@@ -499,16 +481,6 @@ http://ios-stream.qvc.de/qvc.m3u8
 http://live.qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
 #EXTINF:-1 tvg-name="QVC Style UK" group-title="海外一線",QVC Style UK
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-name="Radio SWH" group-title="海外一線",Radio SWH
-http://stream.ls.lv/swhplus/smil:swhplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Radiom2o Tv" group-title="海外一線",Radiom2o Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-name="RAI" group-title="海外一線",RAI
-http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
-#EXTINF:-1 tvg-name="Real Madrid" group-title="海外一線",Real Madrid
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-#EXTINF:-1 tvg-name="Redcom TV (Хабаровск)" group-title="海外一線",Redcom TV (Хабаровск)
-https://tvstreamer.redcom.ru/Redcams/index.m3u8
 #EXTINF:-1 tvg-name="Reporter" group-title="海外一線",Reporter
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/chunks.m3u8
 #EXTINF:-1 tvg-name="Retro Tv" group-title="海外一線",Retro Tv
@@ -711,8 +683,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
 #EXTINF:-1 tvg-name="美國 Ⅰ 法國時尚" group-title="海外二線",美國 Ⅰ 法國時尚
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 tvg-name="美國 Ⅰ 紅牛運動" group-title="海外二線",美國 Ⅰ 紅牛運動
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-name="美國 Ⅰ 美國之音" group-title="海外二線",美國 Ⅰ 美國之音
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 tvg-name="美國Cheddar電視" group-title="海外二線",美國Cheddar電視
@@ -1005,8 +975,6 @@ http://154.90.1.188/bkplay.php?id=195971
 http://154.90.1.188/gz168.php?id=ts
 #EXTINF:-1 tvg-name="博斯高球2" group-title="臺灣頻道1",博斯高球2
 http://154.90.1.188/bkplay.php?id=38
-#EXTINF:-1 tvg-name="博斯運動2" group-title="臺灣頻道1",博斯運動2
-http://154.90.1.188/bkplay.php?id=42
 #EXTINF:-1 tvg-name="華視" group-title="臺灣頻道1",華視
 http://154.90.1.188/bkplay.php?id=29
 #EXTINF:-1 tvg-name="臺視" group-title="臺灣頻道1",臺視
