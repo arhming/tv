@@ -1,4 +1,4 @@
-$c_start香港$c_end
+香港,#genre#
 凤凰卫视,http://nb.iptv88888.xyz/hls/fhzwt.m3u8
 凤凰咨询,http://nb.iptv88888.xyz/hls/fhzixun.m3u8
 凤凰香港,http://nb.iptv88888.xyz/hls/fhhongkong.m3u8
@@ -18,7 +18,7 @@ VIUTV6,http://nb.iptv88888.xyz/hls/viutv6.m3u8
 澳门卫视,http://nb.iptv88888.xyz/hls/aomws.m3u8
 星空卫视,http://nb.iptv88888.xyz/hls/xingkongws.m3u8
 
-$c_start台湾$c_end
+台湾,#genre#
 民视,http://nb.iptv88888.xyz/hls/minshi.m3u8
 民视新闻,http://nb.iptv88888.xyz/hls/msxinwen.m3u8
 民视第一,http://nb.iptv88888.xyz/hls/msone.m3u8
@@ -104,7 +104,7 @@ AXN,http://nb.iptv88888.xyz/hls/axnhd.m3u8
 东森幼幼,http://nb.iptv88888.xyz/hls/dsyouyou.m3u8
 starmovies,http://nb.iptv88888.xyz/hls/starmovies.m3u8
 
-$c_start高清港台$c_end
+高清港台,#genre#
 凤凰卫视中文,rtmp://pullstream-ucan.speedws.com/live/1e8c99147d8d42a5836dfa78ccc49a69
 凤凰卫视资讯,rtmp://pullstream-ucan.speedws.com/live/647af125c6eb489087d53548ad378f2b
 凤凰卫视香港,rtmp://pullstream-ucan.speedws.com/live/e7a4c363694a4d1fab1349c07c1887be
@@ -158,7 +158,7 @@ CCTV-4K,rtmp://pullstream-ucan.speedws.com/live/df46e774f4d24e4e80070025166fbbec
 廣東珠江超清,https://pullstream-ucan.speedws.com/live/3b225688305f4420ac6e877701564dc6.flv
 廣東體育高清,https://pullstream-ucan.speedws.com/live/8778075ca4c040638938ac159297e49e.flv
 
-$c_start港台频道2$c_end
+港台频道2,#genre#
 tTVB J2,http://154.90.1.188/bkplay.php?id=178
 tTVB翡翠,http://154.90.1.188/bkplay.php?id=183
 tTVB明珠,http://154.90.1.188/bkplay.php?id=184
@@ -189,7 +189,7 @@ t澳视体育,http://154.90.1.188/bkplay.php?id=229893
 t澳门综艺,http://154.90.1.188/bkplay.php?id=360030
 t澳视MACAU,http://154.90.1.188/bkplay.php?id=360031
 
-$c_start台湾频道2$c_end
+台湾频道2,#genre#
 t民视新闻,http://154.90.1.188/bkplay.php?id=207
 t民视,http://154.90.1.188/bkplay.php?id=174596
 t民视台湾,http://154.90.1.188/bkplay.php?id=193563
@@ -247,7 +247,7 @@ t探索,http://154.90.1.188/gz168.php?id=ts
 t澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 t澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 
-$c_start港澳频道$c_end
+港澳频道,#genre#
 凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰中文台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1 
 凤凰中文台,http://125.210.152.18:9090/live/FHZW_1200.m3u8
@@ -360,7 +360,7 @@ MTV 音乐,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_oty
 MTV 音乐,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 国家地理,rtmp://58.200.131.2/livetv/natlgeo
 
-$c_start湾湾频道$c_end
+湾湾频道,#genre#
 中天新闻,http://111.13.111.192/211.75.9.37:20060/20067
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 新闻年代,http://111.13.111.192/211.75.9.37:20050/20055
@@ -528,7 +528,7 @@ HBO2台,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
 衛星劇場,http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
 经典频道,http://stream.guihet.com/migu/index.php?id=625542369
 
-$c_start港台频道$c_end
+港台频道,#genre#
 中天新闻,http://111.13.111.192/211.75.9.37:20060/20067
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 新闻年代,http://111.13.111.192/211.75.9.37:20050/20055
@@ -710,7 +710,7 @@ HBO2台,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
 衛星劇場,http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
 经典频道,http://stream.guihet.com/migu/index.php?id=625542369
 
-$c_start弯弯备用$c_end
+弯弯备用,#genre#
 打赏我们,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/266116359395.mp4
 官方QQ群,https://huya-w21.huya.com/2021/338567134/1300/dc51c612ba7fb9f0e18de01db89ad6d8.mp4
 功夫台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/291236_97IGR.m3u8
@@ -744,7 +744,7 @@ TVBS_N,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 NHK华语,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 
-$c_start海外一线$c_end
+海外一线,#genre#
 日本l全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 新马l朝阳频道,http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 韩国l朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
@@ -1301,7 +1301,7 @@ FTV8,P2p://sdgdklwos.finetv.tv:9906/59fd0add000221eb023eeb130f1c4195
 意大利 Ⅰ RAI 溢价,https://mrw.so/4uaWgF?dsjtv.com/20200205.m3u8
 半岛电视,https://mrw.so/4uaVYL?dsjtv.com/20200205.m3u8
 
-$c_start海外二线$c_end
+海外二线,#genre#
 俄罗斯IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄罗斯ТВTV蓝光,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 墨西哥卫视蓝光,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -1823,7 +1823,7 @@ NDTVINDIA,p2p://860825993:18912/5b140a87000dc92517d6be2f7ee45257.ts
 News18,p2p://860825993:18912/5b140a88000efa2e17d6c2654a1d3a44.ts
 TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 
-$c_start海外三线$c_end
+海外三线,#genre#
 俄罗斯IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄罗斯ТВTV蓝光,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 墨西哥卫视蓝光,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -2345,7 +2345,7 @@ NDTVINDIA,p2p://860825993:18912/5b140a87000dc92517d6be2f7ee45257.ts
 News18,p2p://860825993:18912/5b140a88000efa2e17d6c2654a1d3a44.ts
 TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 
-$c_start日韩频道$c_end
+日韩频道,#genre#
 日本 Ⅰ 天气频道,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 日本 Ⅰ 天气频道,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 日本 Ⅰ 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
